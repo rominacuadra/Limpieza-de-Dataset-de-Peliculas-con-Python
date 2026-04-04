@@ -1,0 +1,509 @@
+movie_title,release_date,wikipedia_url,genre,director_1,director_2,cast_1,cast_2,cast_3,cast_4,cast_5,budget,revenue
+10 Cloverfield Lane,2016-03-08,https://en.wikipedia.org/wiki/10_Cloverfield_Lane,Thriller,Dan Trachtenberg,N/A,Mary Elizabeth Winstead,John Goodman,John Gallagher,N/A,N/A,15000000.0,108300000.0
+13 Hours: The Secret Soldiers of Benghazi,2016-01-15,https://en.wikipedia.org/wiki/13_Hours:_The_Secret_Soldiers_of_Benghazi,Action,Michael Bay,N/A,James Badge Dale,John Krasinski,Toby Stephens,Pablo Schreiber,Max Martini,45000000.0,69400000.0
+2 Guns,2013-08-02,https://en.wikipedia.org/wiki/2_Guns,Action,Baltasar Kormákur,N/A,Mark Wahlberg,Denzel Washington,Paula Patton,Bill Paxton,Edward James Olmos,61000000.0,131900000.0
+21 Jump Street,2012-03-16,https://en.wikipedia.org/wiki/21_Jump_Street_(film),Comedy,Phil Lord,Chris Miller,Jonah Hill,Channing Tatum,Ice Cube,Brie Larson,Rob Riggle,55000000.0,201500000.0
+22 Jump Street,2014-06-04,https://en.wikipedia.org/wiki/22_Jump_Street,Action,Phil Lord,Chris Miller,Channing Tatum,Jonah Hill,Ice Cube,N/A,N/A,84500000.0,331300000.0
+300: Rise of an Empire,2014-03-04,https://en.wikipedia.org/wiki/300:_Rise_of_an_Empire,Action,Noam Murro,N/A,Rodrigo Santoro,Eva Green,Sullivan Stapleton,Hans Matheson,Lena Headey,110000000.0,337600000.0
+42,2013-04-12,https://en.wikipedia.org/wiki/42_(film),Biography,Brian Helgeland,N/A,Harrison Ford,Chadwick Boseman,Christopher Meloni,Ryan Merriman,Andre Holland,40000000.0,97500000.0
+71,2014-02-07,https://en.wikipedia.org/wiki/%252771_(film),Action,Yann Demange,N/A,Jack O'Connell,Richard Dormer,Sean Harris,Sam Reid,N/A,8100000.0,2900000.0
+90 Minutes in Heaven,2015-09-11,https://en.wikipedia.org/wiki/90_Minutes_in_Heaven_(film),Drama,Michael Polish,N/A,Hayden Christensen,Kate Bosworth,Dwight Yoakam,Michael W. Smith,N/A,5000000.0,4800000.0
+A Good Day to Die Hard,2013-02-14,https://en.wikipedia.org/wiki/A_Good_Day_to_Die_Hard,Action,John Moore,N/A,Bruce Willis,Jai Courtney,Sebastian Koch,Yuliya Snigir,Radivoje Bukvić,92000000.0,304700000.0
+A Haunted House,2013-01-11,https://en.wikipedia.org/wiki/A_Haunted_House_(film),Comedy,Michael Tiddes,N/A,Marlon Wayans,Nick Swardson,David Koechner,Essence Atkins,Cedric the Entertainer,2500000.0,60100000.0
+A Haunted House 2,2014-04-18,https://en.wikipedia.org/wiki/A_Haunted_House_2,Comedy,Michael Tiddes,N/A,Marlon Wayans,Jaime Pressly,Essence Atkins,Cedric the Entertainer,Gabriel Iglesias,4000000.0,24000000.0
+A Long Way Down,2014-02-10,https://en.wikipedia.org/wiki/A_Long_Way_Down_(film),Comedy,Pascal Chaumeil,N/A,Toni Collette,Pierce Brosnan,Aaron Paul,Imogen Poots,N/A,22700000.0,7100000.0
+A Most Violent Year,2014-11-06,https://en.wikipedia.org/wiki/A_Most_Violent_Year,Action,J. C. Chandor,N/A,Oscar Isaac,Jessica Chastain,Alessandro Nivola,David Oyelowo,Albert Brooks,20000000.0,12000000.0
+A Most Wanted Man,2014-01-19,https://en.wikipedia.org/wiki/A_Most_Wanted_Man_(film),Thriller,Anton Corbijn,N/A,Philip Seymour Hoffman,Rachel McAdams,Robin Wright,Willem Dafoe,Grigoriy Dobrygin,15000000.0,36200000.0
+A Thousand Words,2012-03-09,https://en.wikipedia.org/wiki/A_Thousand_Words_(film),Comedy,Brian Robbins,N/A,Eddie Murphy,Kerry Washington,Cliff Curtis,Clark Duke,Allison Janney,40000000.0,22000000.0
+A Walk Among the Tombstones,2014-09-19,https://en.wikipedia.org/wiki/A_Walk_Among_the_Tombstones_(film),Crime,Scott Frank,N/A,Liam Neeson,Dan Stevens,Ruth Wilson,Boyd Holbrook,N/A,28000000.0,58800000.0
+A Walk in the Woods,2015-01-23,https://en.wikipedia.org/wiki/A_Walk_in_the_Woods_(film),Adventure,Ken Kwapis,N/A,Robert Redford,Nick Nolte,Emma Thompson,N/A,N/A,8000000.0,36000000.0
+Abraham Lincoln: Vampire Hunter,2012-06-22,https://en.wikipedia.org/wiki/Abraham_Lincoln:_Vampire_Hunter_(film),Horror,Timur Bekmambetov,N/A,Benjamin Walker,Dominic Cooper,Anthony Mackie,Mary Elizabeth Winstead,Rufus Sewell,99500000.0,116400000.0
+After Earth,2013-05-31,https://en.wikipedia.org/wiki/After_Earth,Sci-Fi,M. Night Shyamalan,N/A,Jaden Smith,Will Smith,Isabelle Fuhrman,Zoe Kravitz,N/A,130000000.0,243800000.0
+Ain't Them Bodies Saints,2013-08-16,https://en.wikipedia.org/wiki/Ain%2527t_Them_Bodies_Saints,Drama,David Lowery,N/A,Casey Affleck,Rooney Mara,Ben Foster,Rami Malek,Keith Carradine,4000000.0,1000000.0
+Alex Cross,2012-10-19,https://en.wikipedia.org/wiki/Alex_Cross_(film),Crime,Rob Cohen,N/A,Tyler Perry,Matthew Fox,Rachel Nichols,Edward Burns,Jean Reno,35000000.0,34600000.0
+Aloha,2015-05-27,https://en.wikipedia.org/wiki/Aloha_(film),Romance,Cameron Crowe,N/A,Bradley Cooper,Emma Stone,Alec Baldwin,Rachel McAdams,Bill Murray,52000000.0,26300000.0
+Alvin and the Chipmunks: The Road Chip,2015-12-18,https://en.wikipedia.org/wiki/Alvin_and_the_Chipmunks:_The_Road_Chip,Comedy,Walt Becker,N/A,Jason Lee,Tony Hale,Kimberly Williams-Paisley,Josh Green,Bella Thorne,90000000.0,234800000.0
+American Reunion,2012-04-06,https://en.wikipedia.org/wiki/American_Reunion,Comedy,Jon Hurwitz,N/A,Alyson Hannigan,Seann William Scott,Tara Reid,Jason Biggs,Eugene Levy,50000000.0,235000000.0
+American Sniper,2014-11-11,https://en.wikipedia.org/wiki/American_Sniper,Drama,Clint Eastwood,N/A,Bradley Cooper,Sienna Miller,Max Charles,Luke Grimes,N/A,58800000.0,547400000.0
+American Ultra,2015-08-21,https://en.wikipedia.org/wiki/American_Ultra,Action,Nima Nourizadeh,N/A,Jesse Eisenberg,Kristen Stewart,Connie Britton,Topher Grace,John Leguizamo,28000000.0,27100000.0
+Amy,2015-06-16,https://en.wikipedia.org/wiki/Amy_(2015_film),Biography,Asif Kapadia,N/A,Amy Winehouse,Mitchell Winehouse,Janis Winehouse,Raye Cosbert,Nick Shymansky,3400000.0,22000000.0
+Annabelle,2014-09-26,https://en.wikipedia.org/wiki/Annabelle_(film),Horror,John R. Leonetti,N/A,Annabelle Wallis,Alfre Woodard,Eric Ladin,Brian Howe,N/A,6500000.0,256900000.0
+Annie,2014-12-07,https://en.wikipedia.org/wiki/Annie_(2014_film),Comedy,Will Gluck,N/A,Quvenzhané Wallis,Jamie Foxx,Cameron Diaz,Rose Byrne,Bobby Cannavale,65000000.0,133800000.0
+Ant-Man,2015-06-29,https://en.wikipedia.org/wiki/Ant-Man_(film),Action,Peyton Reed,N/A,Paul Rudd,Evangeline Lilly,Corey Stoll,Bobby Cannavale,Michael Peña,130000000.0,519400000.0
+Argo,2012-10-12,https://en.wikipedia.org/wiki/Argo_(2012_film),Drama,Ben Affleck,N/A,Ben Affleck,John Goodman,Alan Arkin,Bryan Cranston,Victor Garber,44500000.0,232300000.0
+"As Above, So Below",2014-08-29,"https://en.wikipedia.org/wiki/As_Above,_So_Below_(film)",Horror,John Erick Dowdle,N/A,Drew Dowdle (screenplay)Perdita Weeks,Ben Feldman,Edwin Hodge,François Civil,Marion Lambert,5000000.0,5000000.0
+Bad Moms,2016-07-29,https://en.wikipedia.org/wiki/Bad_Moms,Comedy,Jon Lucas,Scott Moore,Mila Kunis,Christina Applegate,Kristen Bell,Jada Pinkett Smith,Kathryn Hahn,20000000.0,124200000.0
+Barbershop: The Next Cut,2016-04-15,https://en.wikipedia.org/wiki/Barbershop:_The_Next_Cut,Comedy,Malcolm D. Lee,N/A,Ice Cube,Cedric the Entertainer,Nicki Minaj,Regina Hall,Eve,20000000.0,55000000.0
+Batman v Superman: Dawn of Justice,2016-03-19,https://en.wikipedia.org/wiki/Batman_v_Superman:_Dawn_of_Justice,Action,Zack Snyder,N/A,Ben Affleck,Henry Cavill,Amy Adams,Jesse Eisenberg,Diane Lane,250000000.0,872700000.0
+Batman: The Killing Joke,2016-07-25,https://en.wikipedia.org/wiki/Batman:_The_Killing_Joke_(film),Action,Sam Liu,Bruce Timm,Kevin Conroy,Mark Hamill,Tara Strong,Ray Wise,N/A,3500000.0,4400000.0
+Battle of the Year,2013-09-20,https://en.wikipedia.org/wiki/Battle_of_the_Year_(film),Musical,Benson Lee,N/A,Josh Holloway,Laz Alonso,Josh Peck,Caity Lotz,Chris Brown,20000000.0,16500000.0
+Battleship,2012-05-18,https://en.wikipedia.org/wiki/Battleship_(film),Action,Peter Berg,N/A,Alexander Skarsgård,Taylor Kitsch,Brooklyn Decker,Rihanna,Liam Neeson,220000000.0,303000000.0
+Beasts of the Southern Wild,2012-06-27,https://en.wikipedia.org/wiki/Beasts_of_the_Southern_Wild,Drama,Benh Zeitlin,N/A,Quvenzhané Wallis,Dwight Henry,N/A,N/A,N/A,1800000.0,21900000.0
+Beautiful Creatures,2013-02-14,https://en.wikipedia.org/wiki/Beautiful_Creatures_(2013_film),Fantasy,Richard LaGravenese,N/A,Viola Davis,Alice Englert,Emma Thompson,Emmy Rossum,Jeremy Irons,60000000.0,60100000.0
+Before I Go to Sleep,2014-09-04,https://en.wikipedia.org/wiki/Before_I_Go_to_Sleep_(film),Mystery,Rowan Joffé,N/A,Nicole Kidman,Mark Strong,Colin Firth,Anne-Marie Duff,N/A,22000000.0,15100000.0
+Ben-Hur,2016-08-19,https://en.wikipedia.org/wiki/Ben-Hur_(2016_film),Adventure,Timur Bekmambetov,N/A,Jack Huston,Morgan Freeman,Toby Kebbell,Rodrigo Santoro,Nazanin Boniadi,100000000.0,41400000.0
+Beyond the Lights,2014-09-06,https://en.wikipedia.org/wiki/Beyond_the_Lights,Romance,Gina Prince-Bythewood,N/A,Gugu Mbatha-Raw,Nate Parker,Minnie Driver,Danny Glover,N/A,7000000.0,14600000.0
+Big Eyes,2014-12-25,https://en.wikipedia.org/wiki/Big_Eyes,Biography,Tim Burton,N/A,Amy Adams,Christoph Waltz,Krysten Ritter,Danny Huston,Terence Stamp,10000000.0,29300000.0
+Black Mass,2015-09-04,https://en.wikipedia.org/wiki/Black_Mass_(film),Action,Scott Cooper,N/A,Johnny Depp,Joel Edgerton,Benedict Cumberbatch,Sienna Miller,Dakota Johnson,53000000.0,99800000.0
+Blackhat,2015-01-08,https://en.wikipedia.org/wiki/Blackhat_(film),Action,Michael Mann,N/A,Chris Hemsworth,Viola Davis,John Ortiz,Yorick van Wageningen,Tang Wei,70000000.0,19700000.0
+Blended,2014-05-23,https://en.wikipedia.org/wiki/Blended_(film),Comedy,Frank Coraci,N/A,Adam Sandler,Drew Barrymore,Bella Thorne,Emma Fuhrmann,Terry Crews,40000000.0,128000000.0
+Blue Jasmine,2013-07-26,https://en.wikipedia.org/wiki/Blue_Jasmine,Drama,Woody Allen,N/A,Alec Baldwin,Cate Blanchett,Bobby Cannavale,Louis C.K.,Andrew Dice Clay,18000000.0,97500000.0
+Boyhood,2014-01-19,https://en.wikipedia.org/wiki/Boyhood_(film),Drama,Richard Linklater,N/A,Ethan Hawke,Patricia Arquette,Ellar Coltrane,N/A,N/A,4000000.0,44500000.0
+Brick Mansions,2014-04-23,https://en.wikipedia.org/wiki/Brick_Mansions,Action,Camille Delamarre,N/A,Paul Walker,David Belle,RZA,N/A,N/A,23000000.0,69000000.0
+Bridge of Spies,2015-10-04,https://en.wikipedia.org/wiki/Bridge_of_Spies_(film),Drama,Steven Spielberg,N/A,Tom Hanks,Mark Rylance,Amy Ryan,Alan Alda,Austin Stowell,40000000.0,165500000.0
+Brooklyn,2015-01-26,https://en.wikipedia.org/wiki/Brooklyn_(film),Drama,John Crowley,N/A,Saoirse Ronan,Emory Cohen,Domhnall Gleeson,Jim Broadbent,Julie Walters,11000000.0,62100000.0
+Bullet to the Head,2013-02-01,https://en.wikipedia.org/wiki/Bullet_to_the_Head,Crime,Walter Hill,N/A,Sylvester Stallone,Sung Kang,Sarah Shahi,Adewale Akinnuoye-Agbaje,Religious Slater,55000000.0,21900000.0
+Burnt,2015-10-06,https://en.wikipedia.org/wiki/Burnt_(film),Comedy,John Wells,N/A,Bradley Cooper,Jamie Dornan,Emma Thompson,Sienna Miller,Daniel Brühl,20000000.0,36600000.0
+By the Sea,2015-11-05,https://en.wikipedia.org/wiki/By_the_Sea_(2015_film),Drama,Angelina Jolie,N/A,Angelina Jolie,Brad Pitt,Mélanie Laurent,Niels Arestrup,Melvil Poupaud,10000000.0,3300000.0
+Captain America: The Winter Soldier,2014-03-13,https://en.wikipedia.org/wiki/Captain_America:_The_Winter_Soldier,Action,Anthony Russo,Joe Russo,Chris Evans,Scarlett Johansson,Sebastian Stan,Anthony Mackie,Cobie Smulders,170000000.0,714400000.0
+Captive,2015-09-18,https://en.wikipedia.org/wiki/Captive_(2015_film),Crime,Jerry Jameson,N/A,David Oyelowo,Kate Mara,Michael K. Williams,Leonor Varela,Jessica Oyelowo,2000000.0,2800000.0
+Carol,2015-05-17,https://en.wikipedia.org/wiki/Carol_(film),Drama,Todd Haynes,N/A,Cate Blanchett,Rooney Mara,Sarah Paulson,Kyle Chandler,Jake Lacy,11800000.0,40300000.0
+Central Intelligence,2016-06-10,https://en.wikipedia.org/wiki/Central_Intelligence,Action,Rawson Marshall Thurber,N/A,Dwayne Johnson,Kevin Hart,Amy Ryan,Aaron Paul,N/A,50000000.0,212200000.0
+Cesar Chavez,2014-02-12,https://en.wikipedia.org/wiki/Cesar_Chavez_(film),Drama,Diego Luna,N/A,Michael Peña,America Ferrera,Rosario Dawson,John Malkovich,N/A,10000000.0,6700000.0
+Chappie,2015-03-04,https://en.wikipedia.org/wiki/Chappie_(film),Sci-Fi,Neill Blomkamp,N/A,Sharlto Copley,Ninja,Yolandi Visser,Dev Patel,Hugh Jackman,49000000.0,102100000.0
+Chasing Mavericks,2012-10-26,https://en.wikipedia.org/wiki/Chasing_Mavericks,Biography,Curtis Hanson,Michael Apted,Gerard Butler,Jonny Weston,Elisabeth Shue,Abigail Spencer,N/A,20000000.0,8300000.0
+Chef,2014-03-07,https://en.wikipedia.org/wiki/Chef_(film),Comedy,Jon Favreau,N/A,Jon Favreau,Sofía Vergara,Scarlett Johansson,John Leguizamo,Robert Downey,11000000.0,46000000.0
+Chernobyl Diaries,2012-05-25,https://en.wikipedia.org/wiki/Chernobyl_Diaries,Horror,Bradley Parker,N/A,Jonathan Sadowski,Devin Kelley,Jesse McCartney,Olivia Taylor Dudley,Nathan Phillips,1000000.0,37200000.0
+Child 44,2015-04-17,https://en.wikipedia.org/wiki/Child_44_(film),Drama,Daniel Espinosa,N/A,Tom Hardy,Gary Oldman,Joel Kinnaman,Noomi Rapace,Jason Clarke,50000000.0,13000000.0
+Chronicle,2012-02-03,https://en.wikipedia.org/wiki/Chronicle_(film),Sci-Fi,Josh Trank,N/A,Dane DeHaan,Michael B. Jordan,Alex Russell,Michael Kelly,N/A,12000000.0,126600000.0
+Cloud Atlas,2012-10-26,https://en.wikipedia.org/wiki/Cloud_Atlas_(film),Drama,Tom Tykwer,Andy Wachowski,Tom Hanks,Jim Sturgess,David Gyasi,Jim Broadbent,Ben Whishaw,128500000.0,130500000.0
+Cloudy with a Chance of Meatballs 2,2013-09-27,https://en.wikipedia.org/wiki/Cloudy_with_a_Chance_of_Meatballs_2,Family,Cody Cameron,Kris Pearn,Anna Faris,Bill Hader,Andy Samberg,Kristen Schaal,James Caan,78000000.0,274300000.0
+Concussion,2015-12-25,https://en.wikipedia.org/wiki/Concussion_(2015_film),Drama,Peter Landesman,N/A,Will Smith,Alec Baldwin,Gugu Mbatha-Raw,Albert Brooks,Paul Reiser,57000000.0,50300000.0
+Creed,2015-11-25,https://en.wikipedia.org/wiki/Creed_(film),Drama,Ryan Coogler,N/A,Michael B. Jordan,Sylvester Stallone,Tessa Thompson,Graham McTavish,Tony Bellew,40000000.0,173600000.0
+Criminal,2016-04-15,https://en.wikipedia.org/wiki/Criminal_(2016_film),Action,Ariel Vromen,N/A,Kevin Costner,Gary Oldman,Tommy Lee Jones,Alice Eve,Gal Gadot,31500000.0,35600000.0
+Crimson Peak,2015-10-16,https://en.wikipedia.org/wiki/Crimson_Peak,Horror,Guillermo del Toro,N/A,Mia Wasikowska,Tom Hiddleston,Charlie Hunnam,Jessica Chastain,Jim Beaver,55000000.0,74700000.0
+Daddy's Home,2015-12-25,https://en.wikipedia.org/wiki/Daddy%2527s_Home_(film),Comedy,Sean Anders,John Morris,Will Ferrell,Mark Wahlberg,Linda Cardellini,N/A,N/A,69000000.0,240400000.0
+Danny Collins,2015-03-20,https://en.wikipedia.org/wiki/Danny_Collins_(film),Comedy,Dan Fogelman,N/A,Al Pacino,Annette Bening,Jennifer Garner,Bobby Cannavale,Christopher Plummer,10000000.0,8200000.0
+Dark Shadows,2012-05-11,https://en.wikipedia.org/wiki/Dark_Shadows_(film),Comedy,Tim Burton,N/A,Johnny Depp,Michelle Pfeiffer,Helena Bonham Carter,Eva Green,Jackie Earle Haley,150000000.0,245500000.0
+Dark Skies,2013-02-22,https://en.wikipedia.org/wiki/Dark_Skies_(film),Horror,Scott Charles Stewart,N/A,Keri Russell,Josh Hamilton,Dakota Goyo,N/A,N/A,3500000.0,26400000.0
+Dawn of the Planet of the Apes,2014-06-26,https://en.wikipedia.org/wiki/Dawn_of_the_Planet_of_the_Apes,Action,Matt Reeves,N/A,Andy Serkis,Gary Oldman,Jason Clarke,Kodi Smit-McPhee,Keri Russell,235000000.0,710600000.0
+Dead Man Down,2013-03-08,https://en.wikipedia.org/wiki/Dead_Man_Down,Action,Niels Arden Oplev,N/A,Colin Farrell,Noomi Rapace,Dominic Cooper,Terrence Howard,Wade Barrett,30000000.0,18100000.0
+Deadpool,2016-02-08,https://en.wikipedia.org/wiki/Deadpool_(film),Action,Tim Miller,N/A,Ryan Reynolds,Gina Carano,T. J. Miller,Ed Skrein,Morena Baccarin,58000000.0,782600000.0
+Declaration of War,2012-01-27,https://en.wikipedia.org/wiki/Declaration_of_War_(film),Romance,Valérie Donzelli,N/A,Valérie Donzelli (director),N/A,N/A,N/A,N/A,1500000.0,6500000.0
+Deliver Us from Evil,2014-07-02,https://en.wikipedia.org/wiki/Deliver_Us_from_Evil_(2014_film),Horror,Scott Derrickson,Paul Harris,Eric Bana,Édgar Ramírez,Olivia Munn,Joel McHale,N/A,30000000.0,87900000.0
+Despicable Me 2,2013-06-20,https://en.wikipedia.org/wiki/Despicable_Me_2,Comedy,Chris Renaud,Pierre Coffin,Steve Carell,Kristen Wiig,Miranda Cosgrove,Dana Gaier,Elsie Fisher,76000000.0,970800000.0
+Devil's Due,2014-01-17,https://en.wikipedia.org/wiki/Devil%2527s_Due_(film),Horror,Matt Bettinelli-Olpin,Tyler Gillett,Allison Miller,Zach Gilford,Sam Anderson,Aimee Carrero,Vanessa Ray,7000000.0,36900000.0
+Diary of a Wimpy Kid: Dog Days,2012-08-03,https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid:_Dog_Days_(film),Comedy,David Bowers,N/A,Zachary Gordon,Robert Capron,Rachael Harris,Devon Bostick,Steve Zahn,22000000.0,77100000.0
+Divergent,2014-03-18,https://en.wikipedia.org/wiki/Divergent_(film),Sci-Fi,Neil Burger,N/A,Shailene Woodley,Kate Winslet,Theo James,Ansel Elgort,Zoë Kravitz,85000000.0,288900000.0
+Django Unchained,2012-12-25,https://en.wikipedia.org/wiki/Django_Unchained,Action,Quentin Tarantino,N/A,Christoph Waltz,Jamie Foxx,Leonardo DiCaprio,Samuel L. Jackson,Bruce Dern,100000000.0,425400000.0
+Dolphin Tale 2,2014-09-12,https://en.wikipedia.org/wiki/Dolphin_Tale_2,Family,Charles Martin Smith,N/A,Winter,Hope,Nathan Gamble,Harry Connick,Jr.,36000000.0,57800000.0
+Don't Breathe,2016-08-26,https://en.wikipedia.org/wiki/Don%2527t_Breathe_(2016_film),Thriller,Fede Alvarez,N/A,Dylan Minnette,Stephen Lang,Daniel Zovatto,N/A,N/A,9900000.0,28300000.0
+Dr. Seuss' The Lorax,2012-03-02,https://en.wikipedia.org/wiki/The_Lorax_(film),Family,Chris Renaud,N/A,Danny DeVito,Zac Efron,Taylor Swift,Ed Helms,Rob Riggle,70000000.0,348800000.0
+Dracula Untold,2014-10-10,https://en.wikipedia.org/wiki/Dracula_Untold,Drama,Gary Shore,N/A,Luke Evans,Sarah Gadon,William Houston,Dominic Cooper,Samantha Barks,70000000.0,217100000.0
+Draft Day,2014-04-07,https://en.wikipedia.org/wiki/Draft_Day,Drama,Ivan Reitman,N/A,Kevin Costner,Jennifer Garner,Denis Leary,Frank Langella,Tom Welling,25000000.0,29500000.0
+Dragon Blade,2015-02-18,https://en.wikipedia.org/wiki/Dragon_Blade_(film),Action,Daniel Lee,N/A,Jackie Chan,Choi Siwon,John Cusack,Adrien Brody,James Lee Guy,65000000.0,120000000.0
+Dumb and Dumber To,2014-11-14,https://en.wikipedia.org/wiki/Dumb_and_Dumber_To,Comedy,Peter Farrelly,Bobby Farrelly,Jim Carrey,Jeff Daniels,Kathleen Turner,Laurie Holden,N/A,50000000.0,169800000.0
+Earth to Echo,2014-06-14,https://en.wikipedia.org/wiki/Earth_to_Echo,Sci-Fi,Dave Green,N/A,Astro,Teo Halm,Reese Hartwig,Ella Wahlestedt,N/A,13000000.0,45300000.0
+Eddie the Eagle,2016-02-26,https://en.wikipedia.org/wiki/Eddie_the_Eagle_(film),Drama,Dexter Fletcher,N/A,Taron Egerton,Christopher Walken,Hugh Jackman,N/A,N/A,23000000.0,46200000.0
+Edge of Tomorrow,2014-05-28,https://en.wikipedia.org/wiki/Edge_of_Tomorrow_(film),Action,Doug Liman,N/A,Tom Cruise,Emily Blunt,N/A,N/A,N/A,178000000.0,370500000.0
+Elysium,2013-08-09,https://en.wikipedia.org/wiki/Elysium_(film),Sci-Fi,Neill Blomkamp,N/A,Matt Damon,Jodie Foster,Sharlto Copley,Wagner Moura,Alice Braga,115000000.0,286100000.0
+Embrace of the Serpent,2015-05-15,https://en.wikipedia.org/wiki/Embrace_of_the_Serpent,Adventure,Ciro Guerra,N/A,Jan Bijvoet,Nilbio Torres,Antonio Bolívar,N/A,N/A,1400000.0,2800000.0
+End of Watch,2012-09-21,https://en.wikipedia.org/wiki/End_of_Watch,Action,David Ayer,N/A,Jake Gyllenhaal,Michael Peña,Anna Kendrick,Frank Grillo,America Ferrera,7000000.0,48100000.0
+Enough Said,2013-09-20,https://en.wikipedia.org/wiki/Enough_Said_(film),Comedy,Nicole Holofcener,N/A,James Gandolfini,Julia Louis-Dreyfus,Toni Collette,Catherine Keener,Ben Falcone,8000000.0,25300000.0
+Entourage,2015-05-27,https://en.wikipedia.org/wiki/Entourage_(film),Comedy,Doug Ellin,N/A,Adrian Grenier,Kevin Connolly,Kevin Dillon,Jerry Ferrara,Jeremy Piven,39000000.0,49300000.0
+Epic,2013-05-24,https://en.wikipedia.org/wiki/Epic_(2013_film),Adventure,Chris Wedge,N/A,Colin Farrell,Josh Hutcherson,Amanda Seyfried,Jason Sudeikis,Christoph Waltz,93000000.0,268400000.0
+Escape from Planet Earth,2013-02-15,https://en.wikipedia.org/wiki/Escape_from_Planet_Earth,Comedy,Cal Brunker,N/A,Brendan Fraser,Rob Corddry,Jessica Alba,William Shatner,Sarah Jessica Parker,40000000.0,74600000.0
+Evil Dead,2013-04-05,https://en.wikipedia.org/wiki/Evil_Dead_(2013_film),Horror,Fede Alvarez,N/A,Jane Levy,Shiloh Fernandez,Lou Taylor Pucci,Jessica Lucas,Elizabeth Blackmore,17000000.0,97500000.0
+Ex Machina,2015-01-21,https://en.wikipedia.org/wiki/Ex_Machina_(film),Sci-Fi,Alex Garland,N/A,Domhnall Gleeson,Oscar Isaac,Alicia Vikander,N/A,N/A,15000000.0,36900000.0
+Eye in the Sky,2015-09-11,https://en.wikipedia.org/wiki/Eye_in_the_Sky_(2015_film),Thriller,Gavin Hood,N/A,Helen Mirren,Aaron Paul,Alan Rickman,Barkhad Abdi,N/A,13000000.0,32800000.0
+Fantastic Four,2015-08-04,https://en.wikipedia.org/wiki/Fantastic_Four_(2015_film),Action,Josh Trank,N/A,Miles Teller,Michael B. Jordan,Kate Mara,Jamie Bell,Toby Kebbell,120000000.0,168000000.0
+Fast & Furious 6,2013-05-17,https://en.wikipedia.org/wiki/Fast_%2526_Furious_6,Action,Justin Lin,N/A,Vin Diesel,Dwayne Johnson,Paul Walker,Michelle Rodriguez,Jordana Brewster,160000000.0,788700000.0
+Flight,2012-11-02,https://en.wikipedia.org/wiki/Flight_(2012_film),Drama,Robert Zemeckis,N/A,Denzel Washington,Brian Geraghty,Nadine Velazquez,Bruce Greenwood,John Goodman,31000000.0,161800000.0
+Florence Foster Jenkins,2016-04-27,https://en.wikipedia.org/wiki/Florence_Foster_Jenkins_(film),Biography,Stephen Frears,N/A,Meryl Streep,Hugh Grant,Simon Helberg,Nina Arianda,Rebecca Ferguson,19000000.0,31700000.0
+Frances Ha,2013-05-17,https://en.wikipedia.org/wiki/Frances_Ha,Drama,Noah Baumbach,N/A,Greta Gerwig,Charlotte d'Amboise,Adam Driver,Grace Gummer,Patrick Heusinger,3000000.0,11300000.0
+Free State of Jones,2016-06-16,https://en.wikipedia.org/wiki/Free_State_of_Jones_(film),Drama,Gary Ross,N/A,Matthew McConaughey,Gugu Mbatha-Raw,Keri Russell,Mahershala Ali,N/A,50000000.0,21200000.0
+Friends with Kids,2012-03-09,https://en.wikipedia.org/wiki/Friends_with_Kids,Comedy,Jennifer Westfeldt,N/A,Adam Scott,Jennifer Westfeldt,Jon Hamm,Kristen Wiig,Maya Rudolph,10000000.0,12200000.0
+Fun Size,2012-10-26,https://en.wikipedia.org/wiki/Fun_Size,Comedy,Josh Schwartz,N/A,Victoria Justice,Jane Levy,Thomas McDonell,Thomas Mann,Chelsea Handler,14000000.0,11400000.0
+Fury,2014-10-15,https://en.wikipedia.org/wiki/Fury_(2014_film),Action,David Ayer,N/A,Brad Pitt,Shia LaBeouf,Logan Lerman,Michael Peña,Jon Bernthal,68000000.0,211800000.0
+G.I. Joe: Retaliation,2013-03-27,https://en.wikipedia.org/wiki/G.I._Joe:_Retaliation,Action,Jon Chu,N/A,Channing Tatum,Ray Park,Dwayne Johnson,Bruce Willis,Elodie Yung,130000000.0,375700000.0
+Gangster Squad,2013-01-11,https://en.wikipedia.org/wiki/Gangster_Squad,Action,Ruben Fleischer,N/A,Ryan Gosling,Emma Stone,Sean Penn,Josh Brolin,Robert Patrick,75000000.0,105200000.0
+Get Hard,2015-03-27,https://en.wikipedia.org/wiki/Get_Hard,Comedy,Etan Cohen,N/A,Will Ferrell,Kevin Hart,Alison Brie,Craig T. Nelson,T.I.,40000000.0,111800000.0
+Get on Up,2014-08-01,https://en.wikipedia.org/wiki/Get_on_Up_(film),Drama,Tate Taylor,N/A,Chadwick Boseman,Nelsan Ellis,Brandon Mychal Smith,Jill Scott,Tika Sumpter,30000000.0,33400000.0
+Getaway,2013-08-30,https://en.wikipedia.org/wiki/Getaway_(film),Action,Courtney Solomon,Yaron Levy,Ethan Hawke,Selena Gomez,Jon Voight,James Maslow,N/A,18000000.0,11800000.0
+Ghost Rider: Spirit of Vengeance,2012-02-17,https://en.wikipedia.org/wiki/Ghost_Rider:_Spirit_of_Vengeance,Action,Mark Neveldine,Brian Taylor,Nicolas Cage,Idris Elba,Fergus Riordan,Ciarán Hinds,Violante Placido,57000000.0,132600000.0
+Ghostbusters,2016-07-15,https://en.wikipedia.org/wiki/Ghostbusters_(2016_film),Comedy,Paul Feig,N/A,Melissa McCarthy,Kristen Wiig,Leslie Jones,Kate McKinnon,Chris Hemsworth,144000000.0,217500000.0
+God's Not Dead,2014-03-21,https://en.wikipedia.org/wiki/God%2527s_Not_Dead_(film),Religious,Harold Cronk,N/A,Willie Robertson,David A. R. White,Shane Harper,Kevin Sorbo,Korie Robertson,2000000.0,62600000.0
+God's Not Dead 2,2016-04-01,https://en.wikipedia.org/wiki/God%2527s_Not_Dead_2,Religious,Harold Cronk,N/A,Melissa Joan Hart,David A. R. White,Ray Wise,Robin Givens,Ernie Hudson,5000000.0,23500000.0
+Gods of Egypt,2016-02-25,https://en.wikipedia.org/wiki/Gods_of_Egypt_(film),Action,Alex Proyas,N/A,Geoffrey Rush,Gerard Butler,Brenton Thwaites,Courtney Eaton,Nikolaj Coster-Waldau,140000000.0,145700000.0
+Godzilla,2014-05-08,https://en.wikipedia.org/wiki/Godzilla_(2014_film),Action,Gareth Edwards,N/A,Aaron Taylor-Johnson,Ken Watanabe,Elizabeth Olsen,Bryan Cranston,Juliette Binoche,160000000.0,529000000.0
+Gone Girl,2014-09-26,https://en.wikipedia.org/wiki/Gone_Girl_(film),Mystery,David Fincher,N/A,Ben Affleck,Rosamund Pike,Neil Patrick Harris,Tyler Perry,Kim Dickens,61000000.0,369300000.0
+Good Deeds,2012-02-24,https://en.wikipedia.org/wiki/Good_Deeds,Romance,Tyler Perry,N/A,Tyler Perry,Thandie Newton,Rebecca Romijn,Brian J. White,Jamie Kennedy,14000000.0,35600000.0
+Goosebumps,2015-10-05,https://en.wikipedia.org/wiki/Goosebumps_(film),Action,Rob Letterman,N/A,Jack Black,Dylan Minnette,Odeya Rush,Amy Ryan,Ryan Lee,84000000.0,150200000.0
+Grown Ups 2,2013-07-12,https://en.wikipedia.org/wiki/Grown_Ups_2,Comedy,Dennis Dugan,N/A,Adam Sandler,Kevin James,Chris Rock,David Spade,Taylor Lautner,80000000.0,247000000.0
+"Hail, Caesar!",2016-02-05,"https://en.wikipedia.org/wiki/Hail,_Caesar!",Comedy,Joel and Ethan Coen,N/A,Josh Brolin,George Clooney,Alden Ehrenreich,Ralph Fiennes,Jonah Hill,22000000.0,22000000.0
+Hands of Stone,2016-08-26,https://en.wikipedia.org/wiki/Hands_of_Stone,Biography,Jonathan Jakubowicz,N/A,Édgar Ramírez,Robert De Niro,Usher,Ellen Barkin,Ana de Armas,20000000.0,1700000.0
+Hansel and Gretel: Witch Hunters,2013-01-17,https://en.wikipedia.org/wiki/Hansel_and_Gretel:_Witch_Hunters,Action,Tommy Wirkola,N/A,Jeremy Renner,Gemma Arterton,Zoe Bell,Famke Janssen,Peter Stormare,50000000.0,226300000.0
+Heaven Is for Real,2014-04-16,https://en.wikipedia.org/wiki/Heaven_Is_for_Real_(film),Religious,Randall Wallace,N/A,Greg Kinnear,Kelly Reilly,Connor Corum,Thomas Haden Church,Jacob Vargas,12000000.0,101300000.0
+Here Comes the Boom,2012-10-12,https://en.wikipedia.org/wiki/Here_Comes_the_Boom,Comedy,Frank Coraci,N/A,Kevin James,Salma Hayek,Henry Winkler,Joe Rogan,N/A,42000000.0,73100000.0
+Hit and Run,2012-08-22,https://en.wikipedia.org/wiki/Hit_and_Run_(2012_film),Action,Dax Shepard,N/A,Dax Shepard,Kristen Bell,Bradley Cooper,Tom Arnold,Kristin Chenoweth,2000000.0,14500000.0
+Hitman: Agent 47,2015-08-21,https://en.wikipedia.org/wiki/Hitman:_Agent_47,Action,Aleksander Bach,N/A,Rupert Friend,Zachary Quinto,Hannah Ware,Thomas Kretschmann,N/A,35000000.0,82300000.0
+Home,2015-03-07,https://en.wikipedia.org/wiki/Home_(2015_animated_film),Animation,Tim Johnson,N/A,Jim Parsons,Rihanna,Jennifer Lopez,Steve Martin,Matt Jones,135000000.0,386000000.0
+Hope Springs,2012-08-08,https://en.wikipedia.org/wiki/Hope_Springs_(2012_film),Romance,David Frankel,N/A,Meryl Streep,Tommy Lee Jones,Steve Carell,Mimi Rogers,Elisabeth Shue,30000000.0,114300000.0
+Horrible Bosses 2,2014-11-26,https://en.wikipedia.org/wiki/Horrible_Bosses_2,Comedy,Sean Anders,N/A,Jason Bateman,Charlie Day,Jason Sudeikis,Kevin Spacey,Jennifer Aniston,57000000.0,107700000.0
+Hot Pursuit,2015-05-08,https://en.wikipedia.org/wiki/Hot_Pursuit_(2015_film),Action,Anne Fletcher,N/A,Reese Witherspoon,Sofía Vergara,Jim Gaffigan,John Carroll Lynch,N/A,35000000.0,51700000.0
+Hotel Transylvania,2012-09-28,https://en.wikipedia.org/wiki/Hotel_Transylvania,Fantasy,Genndy Tartakovsky,N/A,Adam Sandler,Selena Gomez,Andy Samberg,Kevin James,Fran Drescher,85000000.0,358400000.0
+Hotel Transylvania 2,2015-09-25,https://en.wikipedia.org/wiki/Hotel_Transylvania_2,Fantasy,Genndy Tartakovsky,N/A,Adam Sandler,Andy Samberg,Selena Gomez,Kevin James,Steve Buscemi,80000000.0,473000000.0
+How to Train Your Dragon 2,2014-05-16,https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon_2,Family,Dean DeBlois,N/A,Jay Baruchel,Gerard Butler,Craig Ferguson,America Ferrera,Jonah Hill,145000000.0,621500000.0
+I,2015-01-14,https://en.wikipedia.org/wiki/I_(film),Romance,S. Shankar,N/A,Vikram,Amy Jackson,N. Santhanam,Suresh Gopi,Upen Patel,15000000.0,65000000.0
+I Saw the Light,2015-09-11,https://en.wikipedia.org/wiki/I_Saw_the_Light_(film),Drama,Marc Abraham,Tom Hiddleston,Elizabeth Olsen,N/A,N/A,N/A,N/A,13000000.0,2600000.0
+Ice Age: Collision Course,2016-07-22,https://en.wikipedia.org/wiki/Ice_Age:_Collision_Course,Adventure,Mike Thurmeier,Galen T. Chu,Ray Romano,John Leguizamo,Denis Leary,Queen Latifah,Jennifer Lopez,105000000.0,368300000.0
+Ice Age: Continental Drift,2012-07-13,https://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift,Adventure,Steve Martino,Mike Thurmeier,Ray Romano,John Leguizamo,Denis Leary,Queen Latifah,Seann William Scott,95000000.0,877000000.0
+Identity Thief,2013-02-08,https://en.wikipedia.org/wiki/Identity_Thief,Action,Seth Gordon,N/A,Jason Bateman,Melissa McCarthy,Amanda Peet,John Cho,Clark Duke,35000000.0,174000000.0
+If I Stay,2014-08-18,https://en.wikipedia.org/wiki/If_I_Stay_(film),Drama,R. J. Cutler,N/A,Chloë Grace Moretz,Mireille Enos,Lauren Lee Smith,Liana Liberato,Jamie Blackley,11000000.0,78900000.0
+In the Heart of the Sea,2015-12-11,https://en.wikipedia.org/wiki/In_the_Heart_of_the_Sea_(film),Biography,Ron Howard,N/A,Chris Hemsworth,Benjamin Walker,Cillian Murphy,Tom Holland,Ben Whishaw,100000000.0,93900000.0
+Independence Day: Resurgence,2016-06-20,https://en.wikipedia.org/wiki/Independence_Day:_Resurgence,Action,Roland Emmerich,N/A,Jeff Goldblum,Bill Pullman,Sela Ward,Liam Hemsworth,Vivica A. Fox,165000000.0,382300000.0
+Insidious: Chapter 2,2013-09-13,https://en.wikipedia.org/wiki/Insidious:_Chapter_2,Horror,James Wan,N/A,Patrick Wilson,Rose Byrne,Lin Shaye,Ty Simpkins,N/A,5000000.0,161900000.0
+Insidious: Chapter 3,2015-06-05,https://en.wikipedia.org/wiki/Insidious:_Chapter_3,Horror,Leigh Whannell,N/A,Dermot Mulroney,Stefanie Scott,Angus Sampson,Leigh Whannell,Lin Shaye,11000000.0,113000000.0
+Interstellar,2014-10-26,https://en.wikipedia.org/wiki/Interstellar_(film),Sci-Fi,Christopher Nolan,N/A,Matthew McConaughey,Anne Hathaway,Michael Caine,Jessica Chastain,Matt Damon,165000000.0,675100000.0
+Into the Storm,2014-08-08,https://en.wikipedia.org/wiki/Into_the_Storm_(2014_film),Adventure,Steven Quale,N/A,Richard Armitage,Jeremy Sumpter,Sarah Wayne Callies,Nathan Kress,N/A,50000000.0,161700000.0
+Iron Sky,2012-07-25,https://en.wikipedia.org/wiki/Iron_Sky,Comedy,Timo Vuorensola,N/A,Julia Dietze,Peta Sergeant,Gotz Otto,Chris Kirby,Udo Kier,7500000.0,8100000.0
+Irrational Man,2015-05-16,https://en.wikipedia.org/wiki/Irrational_Man_(film),Mystery,Woody Allen,N/A,Joaquin Phoenix,Emma Stone,Parker Posey,Jamie Blackley,N/A,11000000.0,27400000.0
+Jack Reacher,2012-12-21,https://en.wikipedia.org/wiki/Jack_Reacher_(film),Action,Christopher McQuarrie,N/A,Tom Cruise,Rosamund Pike,David Oyelowo,Richard Jenkins,Alexia Fast,60000000.0,218300000.0
+Jack Ryan: Shadow Recruit,2014-01-15,https://en.wikipedia.org/wiki/Jack_Ryan:_Shadow_Recruit,Action,Kenneth Branagh,N/A,David Koepp,Adam Cozad,Anthony Peckham,Steve Zaillian,Chris Pine,60000000.0,135500000.0
+Jane Got a Gun,2016-01-29,https://en.wikipedia.org/wiki/Jane_Got_a_Gun,Action,Gavin O'Connor,N/A,Natalie Portman,Joel Edgerton,Ewan McGregor,Rodrigo Santoro,Noah Emmerich,25000000.0,3000000.0
+Jason Bourne,2016-07-29,https://en.wikipedia.org/wiki/Jason_Bourne_(film),Action,Paul Greengrass,N/A,Matt Damon,Julia Stiles,Alicia Vikander,Riz Ahmed,Vincent Cassel,120000000.0,347900000.0
+"Jeff, Who Lives at Home",2012-03-16,"https://en.wikipedia.org/wiki/Jeff,_Who_Lives_at_Home",Comedy,Jay Duplass,N/A,Jason Segel,Ed Helms,Judy Greer,Susan Sarandon,Evan Ross,7500000.0,7500000.0
+Jem and the Holograms,2015-10-23,https://en.wikipedia.org/wiki/Jem_and_the_Holograms_(film),Musical,Jon M. Chu,N/A,Aubrey Peeples,Stefanie Scott,Hayley Kiyoko,Aurora Perrineau,Ryan Guzman,5000000.0,2300000.0
+Jersey Boys,2014-06-05,https://en.wikipedia.org/wiki/Jersey_Boys_(film),Drama,Clint Eastwood,N/A,John Lloyd Young,Erec Bergen,Vincent Piazza,Michael Lamenda,Christopher Walken,58600000.0,67700000.0
+Jobs,2013-08-16,https://en.wikipedia.org/wiki/Jobs_(film),Biography,Joshua Michael Stern,N/A,Ashton Kutcher,Dermot Mulroney,Josh Gad,Lukas Haas,J.K. Simmons,12000000.0,35900000.0
+John Wick,2014-10-13,https://en.wikipedia.org/wiki/John_Wick_(film),Action,Chad Stahelski,David Leitch (director,Keanu Reeves,Bridget Moynahan,Willem Dafoe,N/A,N/A,20000000.0,86000000.0
+Journey 2: The Mysterious Island,2012-02-10,https://en.wikipedia.org/wiki/Journey_2:_The_Mysterious_Island,Adventure,Brad Peyton,N/A,Dwayne Johnson,Michael Caine,Josh Hutcherson,Vanessa Hudgens,Luis Guzmán,79000000.0,335300000.0
+Joy,2015-12-25,https://en.wikipedia.org/wiki/Joy_(film),Comedy,David O. Russell,N/A,Jennifer Lawrence,Robert De Niro,Bradley Cooper,Édgar Ramírez,N/A,60000000.0,101100000.0
+Keanu,2016-04-29,https://en.wikipedia.org/wiki/Keanu_(film),Comedy,Peter Atencio,N/A,Keegan-Michael Key,Jordan Peele,Method Man,Gabrielle Union,Will Forte,15000000.0,20700000.0
+Kill the Messenger,2014-10-10,https://en.wikipedia.org/wiki/Kill_the_Messenger_(2014_film),Crime,Michael Cuesta,N/A,Jeremy Renner,Barry Pepper,Mary Elizabeth Winstead,Rosemarie DeWitt,Ray Liotta,5000000.0,2500000.0
+Killing Them Softly,2012-11-30,https://en.wikipedia.org/wiki/Killing_Them_Softly,Crime,Andrew Dominik,N/A,Brad Pitt,Vincent Curatola,Scoot McNairy,Ben Mendelsohn,Ray Liotta,15000000.0,37900000.0
+Kingsman: The Secret Service,2014-12-13,https://en.wikipedia.org/wiki/Kingsman:_The_Secret_Service,Action,Matthew Vaughn,N/A,Colin Firth,Taron Egerton,Samuel L. Jackson,Mark Strong,Michael Caine,94000000.0,414400000.0
+Krampus,2015-12-04,https://en.wikipedia.org/wiki/Krampus_(film),Horror,Michael Dougherty,N/A,Emjay Anthony,Allison Tolman,Adam Scott,N/A,N/A,15000000.0,61500000.0
+Kubo and the Two Strings,2016-08-19,https://en.wikipedia.org/wiki/Kubo_and_the_Two_Strings,Fantasy,Travis Knight,N/A,Art Parkinson,Matthew McConaughey,Rooney Mara,Charlize Theron,Ralph Fiennes,60000000.0,27600000.0
+Kung Fu Panda 3,2016-01-23,https://en.wikipedia.org/wiki/Kung_Fu_Panda_3,Action,Jennifer Yuh Nelson,Alessandro Carloni,Jack Black,Angelina Jolie,Dustin Hoffman,Jackie Chan,Seth Rogen,145000000.0,519900000.0
+Lazer Team,2016-01-27,https://en.wikipedia.org/wiki/Lazer_Team,Sci-Fi,Matt Hullum,N/A,Burnie Burns,Gavin Free,Michael Jones,Colton Dunn,Allie DeBerry,2400000.0,1600000.0
+Left Behind,2014-10-03,https://en.wikipedia.org/wiki/Left_Behind_(2014_film),Religious,Vic Armstrong,N/A,Nicolas Cage,Chad Michael Murray,Cassi Thomson,Nicky Whelan,Jordin Sparks,16000000.0,27600000.0
+Les Misérables,2012-12-25,https://en.wikipedia.org/wiki/Les_Mis%25C3%25A9rables_(2012_film),Musical,Tom Hooper,N/A,Hugh Jackman,Russell Crowe,Eddie Redmayne,Colm Wilkinson,Anne Hathaway,61000000.0,441800000.0
+Let's Be Cops,2014-08-13,https://en.wikipedia.org/wiki/Let%2527s_Be_Cops,Action,Luke Greenfield,N/A,Jake Johnson,Damon Wayans,Jr.,N/A,N/A,17000000.0,138200000.0
+Life of Pi,2012-11-21,https://en.wikipedia.org/wiki/Life_of_Pi_(film),Drama,Ang Lee,N/A,Suraj Sharma,Ayush Tandon,Irrfan Khan,Gérard Depardieu,N/A,120000000.0,609000000.0
+Lights Out,2016-07-22,https://en.wikipedia.org/wiki/Lights_Out_(2016_film),Horror,David F. Sandberg,N/A,Teresa Palmer,Gabriel Bateman,Alexander DiPersia,N/A,N/A,4900000.0,125900000.0
+Lincoln,2012-11-09,https://en.wikipedia.org/wiki/Lincoln_(2012_film),Drama,Steven Spielberg,N/A,Daniel Day-Lewis,David Strathairn,Hal Holbrook,Sally Field,Joseph Gordon-Levitt,65000000.0,275300000.0
+Little Boy,2015-04-24,https://en.wikipedia.org/wiki/Little_Boy_(film),Drama,Alejandro Gómez Monteverde,N/A,Jakob Salvati,David Henrie,Kevin James,Emily Watson,Ted Levine,20000000.0,17500000.0
+Lockout,2012-04-13,https://en.wikipedia.org/wiki/Lockout_(film),Action,James Mather,Stephen St.Leger,Guy Pearce,Maggie Grace,Peter Stormare,Lennie James,Vincent Regan,20000000.0,32200000.0
+London Has Fallen,2016-03-04,https://en.wikipedia.org/wiki/London_Has_Fallen,Action,Babak Najafi,N/A,Gerard Butler,Aaron Eckhart,Morgan Freeman,Angela Bassett,Alon Aboutboul,60000000.0,195700000.0
+Looper,2012-09-28,https://en.wikipedia.org/wiki/Looper_(film),Action,Rian Johnson,N/A,Joseph Gordon-Levitt,Bruce Willis,Emily Blunt,Paul Dano,Noah Segan,30000000.0,176500000.0
+Love the Coopers,2015-11-04,https://en.wikipedia.org/wiki/Love_the_Coopers,Romance,Jessie Nelson,N/A,John Goodman,Diane Keaton,Amanda Seyfried,Alan Arkin,Olivia Wilde,24000000.0,41100000.0
+Lucy,2014-07-25,https://en.wikipedia.org/wiki/Lucy_(2014_film),Sci-Fi,Luc Besson,N/A,Scarlett Johansson,Morgan Freeman,Choi Min-sik,N/A,N/A,40000000.0,463400000.0
+Mad Max: Fury Road,2015-05-07,https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road,Action,George Miller,N/A,Tom Hardy,Charlize Theron,Hugh Keays-Byrne,Nicholas Hoult,Rosie Huntington-Whiteley,150000000.0,378400000.0
+Madagascar 3: Europe's Most Wanted,2012-06-08,https://en.wikipedia.org/wiki/Madagascar_3:_Europe%2527s_Most_Wanted,Comedy,Eric Darnell,N/A,Noah Baumbach(screenplay); Ben Stiller,Chris Rock,David Schwimmer,Jada Pinkett Smith,Sacha Baron Cohen,145000000.0,746900000.0
+Magic in the Moonlight,2014-07-25,https://en.wikipedia.org/wiki/Magic_in_the_Moonlight,Comedy,Woody Allen,N/A,Emma Stone,Colin Firth,Hamish Linklater,Marcia Gay Harden,Jacki Weaver,16800000.0,51000000.0
+Mama,2013-01-18,https://en.wikipedia.org/wiki/Mama_(2013_film),Horror,Andres Muschietti,N/A,Jessica Chastain,Nikolaj Coster-Waldau,Daniel Kash,David Fox,N/A,15000000.0,146400000.0
+Man of Steel,2013-06-14,https://en.wikipedia.org/wiki/Man_of_Steel_(film),Action,Zack Snyder,N/A,Henry Cavill,Amy Adams,Michael Shannon,Kevin Costner,Diane Lane,225000000.0,668000000.0
+Man on a Ledge,2012-01-27,https://en.wikipedia.org/wiki/Man_on_a_Ledge,Action,Asger Leth,N/A,Sam Worthington,Ed Harris,Elizabeth Banks,Jamie Bell,Kyra Sedgwick,42000000.0,46200000.0
+Max,2015-06-26,https://en.wikipedia.org/wiki/Max_(2015_film),Adventure,Boaz Yakin,N/A,Josh Wiggins,Thomas Haden Church,Lauren Graham,N/A,N/A,20000000.0,44000000.0
+Maze Runner: The Scorch Trials,2015-09-18,https://en.wikipedia.org/wiki/Maze_Runner:_The_Scorch_Trials,Sci-Fi,Wes Ball,N/A,Dylan O'Brien,Ki Hong Lee,Thomas Sangster,Kaya Scodelario,Patricia Clarkson,61000000.0,312300000.0
+Me and Earl and the Dying Girl,2015-01-25,https://en.wikipedia.org/wiki/Me_and_Earl_and_the_Dying_Girl_(film),Comedy,Alfonso Gomez-Rejon,N/A,Thomas Mann,Olivia Cooke,Ronald Cyler II,Jon Bernthal,Nick Offerman,8000000.0,9100000.0
+Me Before You,2016-06-03,https://en.wikipedia.org/wiki/Me_Before_You_(film),Drama,Thea Sharrock,N/A,Emilia Clarke,Sam Claflin,Charles Dance,Jenna Coleman,Janet McTeer,20000000.0,196200000.0
+Mechanic: Resurrection,2016-08-26,https://en.wikipedia.org/wiki/Mechanic:_Resurrection,Action,Dennis Gansel,N/A,Jason Statham,Jessica Alba,Tommy Lee Jones,Michelle Yeoh,N/A,40000000.0,7500000.0
+Men in Black 3,2012-05-25,https://en.wikipedia.org/wiki/Men_in_Black_3,Comedy,Barry Sonnenfeld,N/A,Will Smith,Tommy Lee Jones,Josh Brolin,Jemaine Clement,Emma Thompson,215000000.0,624000000.0
+Midnight Special,2016-02-12,https://en.wikipedia.org/wiki/Midnight_Special_(film),Sci-Fi,Jeff Nichols,N/A,Michael Shannon,Kirsten Dunst,Adam Driver,Joel Edgerton,Sam Shepard,18000000.0,6200000.0
+Miracles from Heaven,2016-03-16,https://en.wikipedia.org/wiki/Miracles_from_Heaven_(film),Drama,Patricia Riggen,N/A,Jennifer Garner,Martin Henderson,Queen Latifah,N/A,N/A,13000000.0,73600000.0
+Mirror Mirror,2012-03-30,https://en.wikipedia.org/wiki/Mirror_Mirror_(film),Fantasy,Tarsem Singh,N/A,Lily Collins,Julia Roberts,Armie Hammer,Nathan Lane,Robert Emms,85000000.0,183000000.0
+Mission: Impossible – Rogue Nation,2015-07-23,https://en.wikipedia.org/wiki/Mission:_Impossible_%25E2%2580%2593_Rogue_Nation,Action,Christopher McQuarrie,N/A,Tom Cruise,Jeremy Renner,Simon Pegg,Ving Rhames,Rebecca Ferguson,150000000.0,682300000.0
+Moms' Night Out,2014-05-09,https://en.wikipedia.org/wiki/Moms%2527_Night_Out,Religious,Andrew Erwin and Jon Erwin,N/A,Sarah Drew,Trace Adkins,Sean Astin,Patricia Heaton,N/A,5000000.0,10500000.0
+Money Monster,2016-05-13,https://en.wikipedia.org/wiki/Money_Monster,Drama,Jodie Foster,N/A,George Clooney,Julia Roberts,Jack O'Connell,Dominic West,Caitriona Balfe,27000000.0,93100000.0
+Monster Hunt,2016-01-22,https://en.wikipedia.org/wiki/Monster_Hunt,Action,Raman Hui,N/A,Bai Baihe,Jing Boran,Jiang Wu,Elaine Jin,N/A,56000000.0,385200000.0
+Moonrise Kingdom ₪,2012-05-25,https://en.wikipedia.org/wiki/Moonrise_Kingdom,Comedy,Wes Anderson,N/A,Jared Gilman,Kara Hayward,Bruce Willis,Edward Norton,Bill Murray,16000000.0,68300000.0
+Mortdecai,2015-01-23,https://en.wikipedia.org/wiki/Mortdecai_(film),Action,David Koepp,N/A,Johnny Depp,Ewan McGregor,Olivia Munn,Aubrey Plaza,Oliver Platt,60000000.0,47000000.0
+Mother's Day,2016-04-13,https://en.wikipedia.org/wiki/Mother%2527s_Day_(2016_film),Comedy,Garry Marshall,N/A,Jennifer Aniston,Julia Roberts,Kate Hudson,Timothy Olyphant,Jason Sudeikis,25000000.0,43800000.0
+Mr. Peabody & Sherman,2014-02-07,https://en.wikipedia.org/wiki/Mr._Peabody_%2526_Sherman,Family,Rob Minkoff,N/A,Ty Burrell,Max Charles,Stephen Colbert,Allison Janney,Ariel Winter,145000000.0,275700000.0
+Mud,2013-04-26,https://en.wikipedia.org/wiki/Mud_(2012_film),Drama,Jeff Nichols,N/A,Matthew McConaughey,Reese Witherspoon,Michael Shannon,Sarah Paulson,Sam Shepard,10000000.0,32600000.0
+Mustang,2015-05-19,https://en.wikipedia.org/wiki/Mustang_(film),Drama,Deniz Gamze Ergüven,N/A,Güneş Şensoy,N/A,N/A,N/A,N/A,1300000.0,4900000.0
+My All American,2015-11-13,https://en.wikipedia.org/wiki/My_All_American,Biography,Angelo Pizzo,N/A,Aaron Eckhart,Finn Wittrock,Robin Tunney,Sarah Bolger,Michael Reilly Burke,20000000.0,2200000.0
+My Big Fat Greek Wedding 2,2016-03-25,https://en.wikipedia.org/wiki/My_Big_Fat_Greek_Wedding_2,Romance,Kirk Jones,N/A,Nia Vardalos,John Corbett,Ian Gomez,Elena Kampouris,N/A,18000000.0,88900000.0
+Need for Speed,2014-03-12,https://en.wikipedia.org/wiki/Need_for_Speed_(film),Action,Scott Waugh,N/A,Aaron Paul,Imogen Poots,Dominic Cooper,Michael Keaton,Ramón Rodríguez,65000000.0,203300000.0
+Neighbors,2014-03-08,https://en.wikipedia.org/wiki/Neighbors_(2014_film),Comedy,Nicholas Stoller,N/A,Seth Rogen,Zac Efron,Rose Byrne,Christopher Mintz-Plasse,Dave Franco,18000000.0,270700000.0
+Neighbors 2: Sorority Rising,2016-05-20,https://en.wikipedia.org/wiki/Neighbors_2:_Sorority_Rising,Comedy,Nicholas Stoller,N/A,Seth Rogen,Zac Efron,Rose Byrne,Chloë Grace Moretz,Dave Franco,35000000.0,107900000.0
+Nerve,2016-07-27,https://en.wikipedia.org/wiki/Nerve_(2016_film),Thriller,Henry Joost,Ariel Schulman,Dave Franco,Emma Roberts,Emily Meade,Kimiko Glenn,Juliette Lewis,20000000.0,47600000.0
+Night at the Museum: Secret of the Tomb,2014-12-11,https://en.wikipedia.org/wiki/Night_at_the_Museum:_Secret_of_the_Tomb,Comedy,Shawn Levy,N/A,Ben Stiller,Robin Williams,Dan Stevens,Owen Wilson,Ricky Gervais,127000000.0,363200000.0
+Nightcrawler,2014-09-05,https://en.wikipedia.org/wiki/Nightcrawler_(film),Drama,Dan Gilroy,N/A,Jake Gyllenhaal,Bill Paxton,Rene Russo,Riz Ahmed,N/A,8500000.0,50300000.0
+Nine Lives,2016-08-05,https://en.wikipedia.org/wiki/Nine_Lives_(2016_film),Comedy,Barry Sonnenfeld,N/A,Kevin Spacey,Robbie Amell,Jennifer Garner,Christopher Walken,Malina Weissman,30000000.0,19100000.0
+No Escape,2015-08-17,https://en.wikipedia.org/wiki/No_Escape_(2015_film),Action,John Erick Dowdle,N/A,Owen Wilson,Pierce Brosnan,Lake Bell,N/A,N/A,5000000.0,54400000.0
+No Good Deed,2014-09-12,https://en.wikipedia.org/wiki/No_Good_Deed_(2014_film),Crime,Sam Miller,N/A,Idris Elba,Taraji P. Henson,Henry Simmons,N/A,N/A,13200000.0,54300000.0
+No One Lives,2013-05-10,https://en.wikipedia.org/wiki/No_One_Lives,Horror,Ryuhei Kitamura,N/A,Luke Evans,Adelaide Clemens,America Olivo,Derek Magyar,Lindsey Shaw,2900000.0,1000000.0
+Noah,2014-03-10,https://en.wikipedia.org/wiki/Noah_(2014_film),Adventure,Darren Aronofsky,N/A,Russell Crowe,Jennifer Connelly,Logan Lerman,Emma Watson,Ray Winstone,125000000.0,362600000.0
+Non-Stop,2014-01-27,https://en.wikipedia.org/wiki/Non-Stop_(film),Thriller,Jaume Collet-Serra,N/A,Liam Neeson,Julianne Moore,Lupita Nyong'o,Nate Parker,Michelle Dockery,50000000.0,222800000.0
+Now You See Me,2013-05-31,https://en.wikipedia.org/wiki/Now_You_See_Me_(film),Crime,Louis Leterrier,N/A,Jesse Eisenberg,Isla Fisher,Morgan Freeman,Woody Harrelson,Mark Ruffalo,75000000.0,351700000.0
+Now You See Me 2,2016-06-06,https://en.wikipedia.org/wiki/Now_You_See_Me_2,Thriller,Jon M. Chu,N/A,Mark Ruffalo,Jesse Eisenberg,Woody Harrelson,Dave Franco,Lizzy Caplan,90000000.0,320900000.0
+Oblivion,2013-04-10,https://en.wikipedia.org/wiki/Oblivion_(2013_film),Action,Joseph Kosinski,N/A,Tom Cruise,Olga Kurylenko,Andrea Riseborough,Morgan Freeman,Nikolaj Coster-Waldau,120000000.0,286200000.0
+Olympus Has Fallen,2013-03-22,https://en.wikipedia.org/wiki/Olympus_Has_Fallen,Action,Antoine Fuqua,N/A,Gerard Butler,Aaron Eckhart,Morgan Freeman,Rick Yune,Dylan McDermott,70000000.0,161000000.0
+One Direction: This Is Us,2013-08-29,https://en.wikipedia.org/wiki/One_Direction:_This_Is_Us,Documentary,Morgan Spurlock,N/A,Harry Styles,Niall Horan,Louis Tomlinson,Zayn Malik,Liam Payne,10000000.0,68500000.0
+One for the Money,2012-01-27,https://en.wikipedia.org/wiki/One_for_the_Money_(film),Crime,Julie Anne Robinson,N/A,Katherine Heigl,Debbie Reynolds,Jason O'Mara,Daniel Sunjata,Sherri Shepherd,40000000.0,36900000.0
+Ouija,2014-10-24,https://en.wikipedia.org/wiki/Ouija_(2014_film),Horror,Stiles White,N/A,Douglas Smith,Olivia Cooke,Vivis Colombetti,Ana Coto,Erin Moriarty,5000000.0,103600000.0
+Our Brand Is Crisis,2015-09-11,https://en.wikipedia.org/wiki/Our_Brand_Is_Crisis_(2015_film),Comedy,David Gordon Green,N/A,Sandra Bullock,Scoot McNairy,Billy Bob Thornton,Anthony Mackie,Ann Dowd,28000000.0,8600000.0
+Pacific Rim,2013-07-12,https://en.wikipedia.org/wiki/Pacific_Rim_(film),Action,Guillermo del Toro,N/A,Charlie Hunnam,Ellen McLain,Idris Elba,Charlie Day,Rinko Kikuchi,190000000.0,411000000.0
+Pain & Gain,2013-04-26,https://en.wikipedia.org/wiki/Pain_%2526_Gain,Action,Michael Bay,N/A,Mark Wahlberg,Dwayne Johnson,Ed Harris,Ken Jeong,Anthony Mackie,26000000.0,86200000.0
+Pan,2015-09-30,https://en.wikipedia.org/wiki/Pan_(2015_film),Fantasy,Joe Wright,N/A,Hugh Jackman,Garrett Hedlund,Rooney Mara,Amanda Seyfried,Levi Miller,150000000.0,128400000.0
+Paper Towns,2015-07-24,https://en.wikipedia.org/wiki/Paper_Towns_(film),Romance,Jake Schreier,N/A,Nat Wolff,Cara Delevingne,N/A,N/A,N/A,12000000.0,85500000.0
+Paranormal Activity 4,2012-10-19,https://en.wikipedia.org/wiki/Paranormal_Activity_4,Thriller,Ariel Schulman,Henry Joost,Kathryn Newton,Katie Featherston,N/A,N/A,N/A,5000000.0,142800000.0
+Paranormal Activity: The Ghost Dimension,2015-10-23,https://en.wikipedia.org/wiki/Paranormal_Activity:_The_Ghost_Dimension,Horror,Gregory Plotkin,N/A,Katie Featherston,Tyler Craig,N/A,N/A,N/A,10000000.0,78100000.0
+ParaNorman,2012-08-17,https://en.wikipedia.org/wiki/ParaNorman,Fantasy,Chris Butler,N/A,Kodi Smit-McPhee,Tucker Albrizzi,Anna Kendrick,Casey Affleck,Christopher Mintz-Plasse,60000000.0,107100000.0
+Parental Guidance,2012-12-25,https://en.wikipedia.org/wiki/Parental_Guidance_(film),Comedy,Andy Fickman,N/A,Billy Crystal,Bette Midler,Marisa Tomei,Tom Everett Scott,Bailee Madison,25000000.0,119800000.0
+Parker,2013-01-25,https://en.wikipedia.org/wiki/Parker_(2013_film),Crime,Taylor Hackford,N/A,Jason Statham,Jennifer Lopez,Bobby Cannavale,Clifton Collins,Jr.,35000000.0,48500000.0
+Paul Blart: Mall Cop 2,2015-04-17,https://en.wikipedia.org/wiki/Paul_Blart:_Mall_Cop_2,Action,Andy Fickman,N/A,Kevin James,Raini Rodriguez,Neal McDonough,Molly Shannon,Daniella Alonso,40000000.0,107600000.0
+Pawn Sacrifice,2015-09-11,https://en.wikipedia.org/wiki/Pawn_Sacrifice,Biography,Ed Zwick,N/A,Tobey Maguire,Liev Schreiber,Peter Sarsgaard,Michael Stuhlbarg,Lily Rabe,19000000.0,5400000.0
+Penguins of Madagascar,2014-11-14,https://en.wikipedia.org/wiki/Penguins_of_Madagascar,Family,Simon J. Smith,N/A,Tom McGrath,Chris Miller,Conrad Vernon,Christopher Knights,Benedict Cumberbatch,132000000.0,373000000.0
+People Like Us,2012-06-29,https://en.wikipedia.org/wiki/People_Like_Us_(film),Drama,Alex Kurtzman,N/A,Chris Pine,Elizabeth Banks,Michelle Pfeiffer,Olivia Wilde,Mark Duplass,16000000.0,12400000.0
+Percy Jackson: Sea of Monsters,2013-08-07,https://en.wikipedia.org/wiki/Percy_Jackson:_Sea_of_Monsters,Adventure,Thor Freudenthal,N/A,Logan Lerman,Alexandra Daddario,Douglas Smith,Mary Birdsong,Yvette Nicole Brown,90000000.0,202200000.0
+Pitch Perfect,2012-10-05,https://en.wikipedia.org/wiki/Pitch_Perfect,Comedy,Jason Moore,N/A,Anna Kendrick,Anna Camp,Rebel Wilson,Adam DeVine,Alexis Knapp,17000000.0,115400000.0
+Pitch Perfect 2,2015-04-20,https://en.wikipedia.org/wiki/Pitch_Perfect_2,Comedy,Elizabeth Banks,N/A,Anna Kendrick,Rebel Wilson,Hailee Steinfeld,Brittany Snow,Skylar Astin,29000000.0,287100000.0
+Pixels,2015-07-24,https://en.wikipedia.org/wiki/Pixels_(2015_film),Comedy,Chris Columbus,N/A,Adam Sandler,Kevin James,Josh Gad,Peter Dinklage,Michelle Monaghan,129000000.0,244900000.0
+Point Break,2015-12-25,https://en.wikipedia.org/wiki/Point_Break_(2015_film),Action,Ericson Core,N/A,Edgar Ramirez,Luke Bracey,Ray Winstone,Teresa Palmer,N/A,105000000.0,133700000.0
+Polis Evo,2015-09-17,https://en.wikipedia.org/wiki/Polis_Evo,Action,Ghaz Abu Bakar,N/A,Shaheizy Sam,Zizan Razak,Nora Danish,Mimie Ernida,Wan Hanafi Su,2400000.0,17300000.0
+Poltergeist,2015-05-22,https://en.wikipedia.org/wiki/Poltergeist_(2015_film),Horror,Gil Kenan,N/A,Sam Rockwell,Jared Harris,Rosemarie DeWitt,Saxon Sharbino,Kyle Catlett,35000000.0,95400000.0
+Pompeii,2014-02-18,https://en.wikipedia.org/wiki/Pompeii_(film),Action,Paul W. S. Anderson,N/A,Kit Harington,Emily Browning,Jared Harris,Kiefer Sutherland,Carrie-Anne Moss,80000000.0,117800000.0
+Popstar: Never Stop Never Stopping,2016-06-03,https://en.wikipedia.org/wiki/Popstar:_Never_Stop_Never_Stopping,Comedy,Jorma Taccone,Akiva Schaffer,Jorma Taccone,Akiva Schaffer,Andy Samberg (screenplay),N/A,N/A,20000000.0,9500000.0
+Premium Rush,2012-08-24,https://en.wikipedia.org/wiki/Premium_Rush,Action,David Koepp,N/A,Joseph Gordon-Levitt,Michael Shannon,Dania Ramirez,Wole Parks,Jamie Chung,35000000.0,31100000.0
+Pride and Prejudice and Zombies,2016-02-05,https://en.wikipedia.org/wiki/Pride_and_Prejudice_and_Zombies_(film),Comedy,Burr Steers,N/A,Lily James,Sam Riley,Matt Smith,Lena Headey,Charles Dance,28000000.0,16400000.0
+Prisoners,2013-09-20,https://en.wikipedia.org/wiki/Prisoners_(2013_film),Crime,Denis Villeneuve,N/A,Jake Gyllenhaal,Hugh Jackman,Paul Dano,Melissa Leo,Viola Davis,46000000.0,122100000.0
+Project Almanac,2015-01-30,https://en.wikipedia.org/wiki/Project_Almanac,Sci-Fi,Dean Israelite,N/A,Jonny Weston,Sofia Black-D'Elia,N/A,N/A,N/A,12000000.0,33200000.0
+Project X,2012-03-02,https://en.wikipedia.org/wiki/Project_X_(2012_film),Comedy,Nima Nourizadeh,N/A,Miles Teller,Oliver Cooper,Jonathan Daniel Brown,Kirby Bliss Blanton,Thomas Mann,12000000.0,102700000.0
+Prometheus,2012-06-08,https://en.wikipedia.org/wiki/Prometheus_(2012_film),Sci-Fi,Ridley Scott,N/A,Noomi Rapace,Michael Fassbender,Charlize Theron,Idris Elba,Guy Pearce,130000000.0,403400000.0
+Promised Land,2012-12-28,https://en.wikipedia.org/wiki/Promised_Land_(2012_film),Drama,Gus Van Sant,N/A,Matt Damon,John Krasinski,Rosemarie DeWitt,Frances McDormand,N/A,15000000.0,8100000.0
+R.I.P.D.,2013-07-19,https://en.wikipedia.org/wiki/R.I.P.D.,Action,Robert Schwentke,N/A,Ryan Reynolds,Jeff Bridges,Kevin Bacon,Stephanie Szostak,Mary-Louise Parker,130000000.0,78300000.0
+Race,2016-02-19,https://en.wikipedia.org/wiki/Race_(2016_film),Drama,Stephen Hopkins,N/A,Stephan James,Jason Sudeikis,Jeremy Irons,William Hurt,Carice van Houten,5000000.0,23500000.0
+Raiders of the Lost Ark: The IMAX Experience,2012-09-07,https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark,Action,Steven Spielberg,N/A,Harrison Ford,John Rhys-Davies,Karen Allen,Paul Freeman,Alfred Molina,18000000.0,389900000.0
+Rams,2015-05-15,https://en.wikipedia.org/wiki/Rams_(film),Drama,Grímur Hákonarson,N/A,Sigurður Sigurjónsson,N/A,N/A,N/A,N/A,1750000.0,1740000.0
+Ratchet & Clank,2016-04-29,https://en.wikipedia.org/wiki/Ratchet_%2526_Clank_(film),Sci-Fi,Jerrica Cleland,Kevin Munroe,Paul Giamatti,John Goodman,Bella Thorne,Rosario Dawson,James Arnold Taylor,20000000.0,12800000.0
+RED 2,2013-07-19,https://en.wikipedia.org/wiki/RED_2_(film),Action,Dean Parisot,N/A,Bruce Willis,John Malkovich,Helen Mirren,Mary-Louise Parker,Catherine Zeta-Jones,84000000.0,148100000.0
+Red Dawn,2012-11-21,https://en.wikipedia.org/wiki/Red_Dawn_(2012_film),Action,Dan Bradley,N/A,Will Yun Lee,Chris Hemsworth,Josh Peck,Adrianne Palicki,Josh Hutcherson,65000000.0,48100000.0
+Red Tails,2012-01-20,https://en.wikipedia.org/wiki/Red_Tails,Drama,Anthony Hemingway,N/A,Cuba Gooding Jr.,Nate Parker,David Oyelowo,Daniela Ruah,Terrence Howard,58000000.0,50400000.0
+Resident Evil: Retribution,2012-09-14,https://en.wikipedia.org/wiki/Resident_Evil:_Retribution,Action,Paul W. S. Anderson,N/A,Milla Jovovich,Sienna Guillory,Colin Salmon,Boris Kodjoe,Michelle Rodriguez,65000000.0,240200000.0
+Ricki and the Flash,2015-08-07,https://en.wikipedia.org/wiki/Ricki_and_the_Flash,Comedy,Jonathan Demme,N/A,Meryl Streep,Kevin Kline,Mamie Gummer,Audra McDonald,Sebastian Stan,18000000.0,41300000.0
+Riddick,2013-09-06,https://en.wikipedia.org/wiki/Riddick_(film),Action,David Twohy,N/A,Vin Diesel,Karl Urban,Katee Sackhoff,Dave Bautista,Matthew Nable,40000000.0,100300000.0
+Ride Along,2014-01-17,https://en.wikipedia.org/wiki/Ride_Along_(film),Action,Tim Story,N/A,Ice Cube,Kevin Hart,John Leguizamo,Bruce McGill,Tika Sumpter,25000000.0,154500000.0
+Ride Along 2,2016-01-15,https://en.wikipedia.org/wiki/Ride_Along_2,Comedy,Tim Story,N/A,Ice Cube,Kevin Hart,Benjamin Bratt,Olivia Munn,Ken Jeong,40000000.0,124200000.0
+Rio 2,2014-03-20,https://en.wikipedia.org/wiki/Rio_2,Family,Carlos Saldanha,N/A,Jesse Eisenberg,Anne Hathaway,Leslie Mann,Bruno Mars,Jemaine Clement,103000000.0,500100000.0
+Rise of the Guardians,2012-11-21,https://en.wikipedia.org/wiki/Rise_of_the_Guardians,Adventure,Peter Ramsey,N/A,Chris Pine,Alec Baldwin,Hugh Jackman,Isla Fisher,Jude Law,145000000.0,306900000.0
+Risen,2016-02-19,https://en.wikipedia.org/wiki/Risen_(2016_film),Drama,Kevin Reynolds,N/A,Joseph Fiennes,Tom Felton,Cliff Curtis,N/A,N/A,20000000.0,46100000.0
+RoboCop,2014-01-30,https://en.wikipedia.org/wiki/RoboCop_(2014_film),Action,José Padilha,N/A,Joel Kinnaman,Gary Oldman,Michael Keaton,Samuel L. Jackson,Jackie Earle Haley,100000000.0,242700000.0
+Robot & Frank,2012-08-17,https://en.wikipedia.org/wiki/Robot_%2526_Frank,Comedy,Jake Schreier,N/A,Frank Langella,Susan Sarandon,James Marsden,Liv Tyler,Peter Sarsgaard,2500000.0,4900000.0
+Rock of Ages,2012-06-15,https://en.wikipedia.org/wiki/Rock_of_Ages_(2012_film),Musical,Adam Shankman,N/A,Julianne Hough,Diego Boneta,Tom Cruise,Alec Baldwin,Russell Brand,75000000.0,59400000.0
+Rock the Kasbah,2015-10-22,https://en.wikipedia.org/wiki/Rock_the_Kasbah_(film),Comedy,Barry Levinson,N/A,Bill Murray,Bruce Willis,Kate Hudson,Scott Caan,Zooey Deschanel,15000000.0,3400000.0
+Romeo and Juliet,2013-07-26,https://en.wikipedia.org/wiki/Romeo_and_Juliet_(2013_film),Drama,Carlo Carlei,N/A,Hailee Steinfeld,Douglas Booth,Damian Lewis,Natascha McElhone,Lesley Manville,15000000.0,3000000.0
+Room,2015-09-04,https://en.wikipedia.org/wiki/Room_(2015_film),Drama,Lenny Abrahamson,N/A,Brie Larson,Joan Allen,William H. Macy,Sean Bridgers,Jacob Tremblay,13000000.0,36000000.0
+Run All Night,2015-03-13,https://en.wikipedia.org/wiki/Run_All_Night_(film),Action,Jaume Collet-Serra,N/A,Liam Neeson,Joel Kinnaman,Ed Harris,N/A,N/A,61600000.0,71700000.0
+"Runner, Runner",2013-09-27,"https://en.wikipedia.org/wiki/Runner,_Runner_(film)",Crime,Brad Furman,N/A,Ben Affleck,Justin Timberlake,Gemma Arterton,Anthony Mackie,N/A,30000000.0,30000000.0
+Rush,2013-09-20,https://en.wikipedia.org/wiki/Rush_(2013_film),Action,Ron Howard,N/A,Chris Hemsworth,Daniel Bruhl,Olivia Wilde,Alexandra Maria Lara,N/A,38000000.0,90200000.0
+Sabotage,2014-03-19,https://en.wikipedia.org/wiki/Sabotage_(2014_film),Action,David Ayer,N/A,Arnold Schwarzenegger,Mireille Enos,Sam Worthington,Joe Manganiello,Olivia Williams,35000000.0,17500000.0
+Safe House,2012-02-10,https://en.wikipedia.org/wiki/Safe_House_(2012_film),Action,Daniel Espinosa,N/A,Denzel Washington,Ryan Reynolds,Sam Shepard,Robert Patrick,Liam Cunningham,85000000.0,208100000.0
+Salmon Fishing in the Yemen,2012-03-09,https://en.wikipedia.org/wiki/Salmon_Fishing_in_the_Yemen,Drama,Lasse Hallström,N/A,Ewan McGregor,Emily Blunt,Kristin Scott Thomas,Amr Waked,N/A,14400000.0,34600000.0
+Savages,2012-07-06,https://en.wikipedia.org/wiki/Savages_(2012_film),Crime,Oliver Stone,N/A,Taylor Kitsch,Blake Lively,Aaron Johnson,John Travolta,Benicio del Toro,45000000.0,83000000.0
+Scary Movie 5,2013-04-12,https://en.wikipedia.org/wiki/Scary_Movie_5,Comedy,Malcolm D. Lee,N/A,Ashley Tisdale,Simon Rex,Lindsay Lohan,Charlie Sheen,Terry Crews,20000000.0,78400000.0
+Secret in Their Eyes,2015-11-20,https://en.wikipedia.org/wiki/Secret_in_Their_Eyes,Crime,Billy Ray,N/A,Julia Roberts,Nicole Kidman,Chiwetel Ejiofor,Dean Norris,N/A,19500000.0,32200000.0
+Self/less,2015-07-10,https://en.wikipedia.org/wiki/Self/less,Drama,Tarsem Singh,N/A,Ryan Reynolds,Ben Kingsley,Natalie Martinez,Victor Garber,Matthew Goode,26000000.0,30500000.0
+Selma,2014-12-25,https://en.wikipedia.org/wiki/Selma_(film),Drama,Ava DuVernay,N/A,David Oyelowo,Tom Wilkinson,Common,Carmen Ejogo,N/A,20000000.0,66800000.0
+Seventh Son,2014-12-17,https://en.wikipedia.org/wiki/Seventh_Son_(film),Fantasy,Sergei Bodrov,N/A,Sergei Bodrov (director) Ben Barnes,Jeff Bridges,Julianne Moore,Alicia Vikander,Kit Harington,95000000.0,114200000.0
+Shaun the Sheep Movie,2015-01-24,https://en.wikipedia.org/wiki/Shaun_the_Sheep_Movie,Adventure,Mark Burton,N/A,Justin Fletcher,John Sparkes,N/A,N/A,N/A,25000000.0,106000000.0
+Sicario,2015-05-19,https://en.wikipedia.org/wiki/Sicario_(2015_film),Crime,Denis Villeneuve,N/A,Emily Blunt,Benicio del Toro,Josh Brolin,Jon Bernthal,N/A,30000000.0,84900000.0
+Side Effects,2013-02-08,https://en.wikipedia.org/wiki/Side_Effects_(2013_film),Crime,Steven Soderbergh,N/A,Rooney Mara,Jude Law,Channing Tatum,Catherine Zeta-Jones,Vinessa Shaw,30000000.0,66700000.0
+Silent Hill: Revelation 3D,2012-10-26,https://en.wikipedia.org/wiki/Silent_Hill:_Revelation_3D,Horror,Michael J. Bassett,N/A,Adelaide Clemens,Sean Bean,Radha Mitchell,Kit Harington,Carrie-Anne Moss,20000000.0,52300000.0
+Silver Linings Playbook,2012-11-16,https://en.wikipedia.org/wiki/Silver_Linings_Playbook,Drama,David O. Russell,N/A,Bradley Cooper,Jennifer Lawrence,Brea Bee,Robert De Niro,Jacki Weaver,21000000.0,236400000.0
+Sin City: A Dame to Kill For,2014-08-19,https://en.wikipedia.org/wiki/Sin_City:_A_Dame_to_Kill_For,Crime,Frank Miller,Robert Rodriguez,Jessica Alba,Powers Boothe,Josh Brolin,Rosario Dawson,Joseph Gordon-Levitt,65000000.0,39400000.0
+Sinister,2012-10-12,https://en.wikipedia.org/wiki/Sinister_(film),Horror,Scott Derrickson,N/A,Ethan Hawke,Juliet Rylance,Fred Thompson,Vincent D'Onofrio,N/A,3000000.0,77700000.0
+Sinister 2,2015-08-21,https://en.wikipedia.org/wiki/Sinister_2,Horror,Ciaran Foy,N/A,James Ransone,Shannyn Sossamon,N/A,N/A,N/A,10000000.0,52900000.0
+Sisters,2015-12-18,https://en.wikipedia.org/wiki/Sisters_(2015_film),Comedy,Jason Moore,N/A,Amy Poehler,Tina Fey,John Cena,Maya Rudolph,N/A,30000000.0,105000000.0
+Snitch,2013-02-22,https://en.wikipedia.org/wiki/Snitch_(film),Action,Ric Roman Waugh,N/A,Dwayne Johnson,Susan Sarandon,Benjamin Bratt,Barry Pepper,N/A,15000000.0,57800000.0
+Snow White and the Huntsman,2012-06-01,https://en.wikipedia.org/wiki/Snow_White_and_the_Huntsman,Action,Rupert Sanders,N/A,Charlize Theron,Kristen Stewart,Chris Hemsworth,Sam Spruell,Ian McShane,170000000.0,396600000.0
+Son of God,2014-02-28,https://en.wikipedia.org/wiki/Son_of_God_(film),Drama,Christopher Spencer,N/A,Diogo Morgado,Roma Downey,Darwin Shaw,N/A,N/A,22000000.0,67800000.0
+Son of Saul,2015-05-15,https://en.wikipedia.org/wiki/Son_of_Saul,Drama,László Nemes,N/A,Géza Röhrig,N/A,N/A,N/A,N/A,1500000.0,6200000.0
+Southpaw,2015-06-15,https://en.wikipedia.org/wiki/Southpaw_(film),Drama,Antoine Fuqua,N/A,Jake Gyllenhaal,Rachel McAdams,Naomie Harris,Forest Whitaker,Victor Ortiz,30000000.0,92000000.0
+Spotlight,2015-09-03,https://en.wikipedia.org/wiki/Spotlight_(film),Drama,Tom McCarthy,N/A,Mark Ruffalo,Michael Keaton,Rachel McAdams,Liev Schreiber,John Slattery,20000000.0,88300000.0
+Spy,2015-05-15,https://en.wikipedia.org/wiki/Spy_(2015_film),Action,Paul Feig,N/A,Melissa McCarthy,Jason Statham,Rose Byrne,Miranda Hart,Bobby Cannavale,65000000.0,235700000.0
+St. Vincent,2014-09-05,https://en.wikipedia.org/wiki/St._Vincent_(film),Comedy,Theodore Melfi,N/A,Bill Murray,Melissa McCarthy,Naomi Watts,Chris O'Dowd,Kimberly Quinn,13000000.0,54800000.0
+Stand by Me Doraemon,2014-08-08,https://en.wikipedia.org/wiki/Stand_by_Me_Doraemon,Animation,Takashi Yamazaki,Ryuichi Yagi,Wasabi Mizuta,Megumi Ohara,Yumi Kakazu,Tomokazu Seki,Subaru Kimura,35000000.0,196400000.0
+Star Trek Beyond,2016-07-22,https://en.wikipedia.org/wiki/Star_Trek_Beyond,Action,Justin Lin,N/A,Chris Pine,Zachary Quinto,Zoe Saldana,Karl Urban,John Cho,185000000.0,243000000.0
+Step Up: All In,2014-08-08,https://en.wikipedia.org/wiki/Step_Up:_All_In,Drama,Trish Sie,N/A,Ryan Guzman,Briana Evigan,Alyson Stoner,Adam Sevani,Mari Koda,45000000.0,86200000.0
+Steve Jobs,2015-09-05,https://en.wikipedia.org/wiki/Steve_Jobs_(2015_film),Biography,Danny Boyle,N/A,Michael Fassbender,Seth Rogen,Kate Winslet,Jeff Daniels,Katherine Waterston,30000000.0,34400000.0
+Straight Outta Compton,2015-08-11,https://en.wikipedia.org/wiki/Straight_Outta_Compton_(2015_film),Biography,F. Gary Gray,N/A,O'Shea Jackson,Jr.,Corey Hawkins,Jason Mitchell,Aldis Hodge,50000000.0,201600000.0
+Suffragette,2015-09-04,https://en.wikipedia.org/wiki/Suffragette_(film),Drama,Sarah Gavron,N/A,Carey Mulligan,Helena Bonham Carter,Meryl Streep,Ben Whishaw,Brendan Gleeson,14000000.0,32000000.0
+Suicide Squad,2016-08-05,https://en.wikipedia.org/wiki/Suicide_Squad_(film),Action,David Ayer,N/A,Will Smith,Jared Leto,Margot Robbie,Joel Kinnaman,Viola Davis,175000000.0,636700000.0
+Taken 2,2012-10-05,https://en.wikipedia.org/wiki/Taken_2,Action,Olivier Megaton,N/A,Liam Neeson,Famke Janssen,Maggie Grace,Rade Sherbedgia,Luke Grimes,43000000.0,376100000.0
+Tammy,2014-07-02,https://en.wikipedia.org/wiki/Tammy_(film),Comedy,Ben Falcone,N/A,Melissa McCarthy,Susan Sarandon,Allison Janney,Toni Collette,Sandra Oh,20000000.0,100500000.0
+Ted,2012-06-29,https://en.wikipedia.org/wiki/Ted_(film),Comedy,Seth MacFarlane,N/A,Mark Wahlberg,Mila Kunis,Seth MacFarlane,Giovanni Ribisi,Joel McHale,51000000.0,549400000.0
+Ted 2,2015-06-24,https://en.wikipedia.org/wiki/Ted_2,Comedy,Seth MacFarlane,N/A,Alec Sulkin,Wellesley Wild(screenplay) Mark Wahlberg,Seth MacFarlane,Amanda Seyfried,Giovanni Ribisi,68000000.0,216700000.0
+Teenage Mutant Ninja Turtles,2014-07-29,https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(2014_film),Action,Jonathan Liebesman,N/A,Megan Fox,Johnny Knoxville,Alan Ritchson,Noel Fisher,Jeremy Howard,125000000.0,493300000.0
+Teenage Mutant Ninja Turtles: Out of the Shadows,2016-05-22,https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles:_Out_of_the_Shadows,Action,Dave Green,N/A,Megan Fox,Stephen Amell,Will Arnett,Laura Linney,Brian Tee,135000000.0,242500000.0
+Terminator Genisys,2015-06-22,https://en.wikipedia.org/wiki/Terminator_Genisys,Sci-Fi,Alan Taylor,N/A,Arnold Schwarzenegger,J. K. Simmons,Emilia Clarke,Jason Clarke,Jai Courtney,155000000.0,440600000.0
+Texas Chainsaw 3D,2013-01-04,https://en.wikipedia.org/wiki/Texas_Chainsaw_3D,Horror,John Luessenhop,N/A,Alexandra Daddario,Dan Yeager,Trey Songz,Scott Eastwood,Tania Raymonde,20000000.0,47200000.0
+That Awkward Moment,2014-01-27,https://en.wikipedia.org/wiki/That_Awkward_Moment,Comedy,Tom Gormican,N/A,Zac Efron,Michael B. Jordan,Miles Teller,Imogen Poots,Jessica Lucas,8000000.0,40500000.0
+The 33,2015-08-06,https://en.wikipedia.org/wiki/The_33_(film),Drama,Patricia Riggen,N/A,Antonio Banderas,Rodrigo Santoro,Juliette Binoche,James Brolin,Lou Diamond Phillips,26000000.0,24900000.0
+The 5th Wave,2016-01-22,https://en.wikipedia.org/wiki/The_5th_Wave_(film),Sci-Fi,J Blakeson,N/A,Chloë Grace Moretz,Nick Robinson,Alex Roe,Liev Schreiber,Maika Monroe,35000000.0,110700000.0
+The Age of Adaline,2015-04-24,https://en.wikipedia.org/wiki/The_Age_of_Adaline,Romance,Lee Toland Krieger,N/A,Blake Lively,Michiel Huisman,Harrison Ford,Ellen Burstyn,Amanda Crew,25000000.0,65700000.0
+The Amazing Spider-Man,2012-07-03,https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_(2012_film),Action,Marc Webb,N/A,Andrew Garfield,Emma Stone,Max Charles,Martin Sheen,Sally Field,230000000.0,757900000.0
+The Angry Birds Movie,2016-05-05,https://en.wikipedia.org/wiki/The_Angry_Birds_Movie,Comedy,Clay Kaytis,Fergal Reilly,Jason Sudeikis,Josh Gad,Danny McBride,Bill Hader,Maya Rudolph,73000000.0,346900000.0
+The Best Exotic Marigold Hotel ₪,2012-05-04,https://en.wikipedia.org/wiki/The_Best_Exotic_Marigold_Hotel,Comedy,John Madden,N/A,Judi Dench,Bill Nighy,Dev Patel,Tom Wilkinson,Maggie Smith,10000000.0,136800000.0
+The Big Short,2015-12-11,https://en.wikipedia.org/wiki/The_Big_Short_(film),Biography,Adam McKay,N/A,Religious Bale,Steve Carell,Ryan Gosling,Brad Pitt,Melissa Leo,28000000.0,133300000.0
+The Bling Ring,2013-06-14,https://en.wikipedia.org/wiki/The_Bling_Ring,Comedy,Sofia Coppola,N/A,Emma Watson,Israel Broussard,Katie Chang,Claire Julien,Taissa Farmiga,8000000.0,19100000.0
+The Book of Life,2014-10-12,https://en.wikipedia.org/wiki/The_Book_of_Life_(2014_film),Family,Jorge R. Gutierrez,N/A,Christina Applegate,Diego Luna,Zoe Saldana,Channing Tatum,N/A,50000000.0,99800000.0
+The Boss,2016-04-08,https://en.wikipedia.org/wiki/The_Boss_(2016_film),Comedy,Ben Falcone,N/A,Melissa McCarthy,Kristen Bell,Peter Dinklage,Tyler Labine,Kristen Schaal,29000000.0,78600000.0
+The Bourne Legacy,2012-08-10,https://en.wikipedia.org/wiki/The_Bourne_Legacy_(film),Action,Tony Gilroy,N/A,Jeremy Renner,Rachel Weisz,Edward Norton,Oscar Isaac,Joan Allen,125000000.0,276100000.0
+The Boxtrolls,2014-08-31,https://en.wikipedia.org/wiki/The_Boxtrolls,Family,Anthony Stacchi,Graham Annable,Ben Kingsley,Toni Collette,Elle Fanning,Isaac Hempstead-Wright,Jared Harris,60000000.0,109300000.0
+The Boy,2016-01-22,https://en.wikipedia.org/wiki/The_Boy_(2016_film),Horror,William Brent Bell,N/A,Lauren Cohan,Rupert Evans,Jim Norton,Diana Hardcastle,N/A,10000000.0,64200000.0
+The Butler,2013-08-16,https://en.wikipedia.org/wiki/The_Butler,Drama,Lee Daniels,N/A,Forest Whitaker,Oprah Winfrey,David Oyelowo,Liam Neeson,John Cusack,30000000.0,176600000.0
+The Cabin in the Woods,2012-04-13,https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods,Horror,Drew Goddard,N/A,Richard Jenkins,Bradley Whitford,Jesse Williams,Chris Hemsworth,Kristen Connolly,30000000.0,66500000.0
+The Call,2013-03-15,https://en.wikipedia.org/wiki/The_Call_(2013_film),Mystery,Brad Anderson,N/A,Abigail Breslin,Halle Berry,Morris Chestnut,Michael Eklund,Michael Imperioli,13000000.0,68600000.0
+The Campaign,2012-08-10,https://en.wikipedia.org/wiki/The_Campaign_(film),Comedy,Jay Roach,N/A,Will Ferrell,Zach Galifianakis,Jason Sudeikis,Katherine LaNasa,Dylan McDermott,95000000.0,104900000.0
+The Cold Light of Day,2012-09-07,https://en.wikipedia.org/wiki/The_Cold_Light_of_Day_(film),Action,Mabrouk El Mechri,N/A,Henry Cavill,Bruce Willis,Sigourney Weaver,Veronica Echegui,Roschoy Zem,20000000.0,16900000.0
+The Collection,2012-11-30,https://en.wikipedia.org/wiki/The_Collection_(film),Horror,Marcus Dunstan,N/A,Josh Stewart,Emma Fitzpatrick,N/A,N/A,N/A,10000000.0,8900000.0
+The Conjuring,2013-07-19,https://en.wikipedia.org/wiki/The_Conjuring_(film),Thriller,James Wan,N/A,Patrick Wilson,Vera Farmiga,Ron Livingston,Lili Taylor,Shannon Kook,20000000.0,318000000.0
+The Conjuring 2,2016-06-07,https://en.wikipedia.org/wiki/The_Conjuring_2,Horror,James Wan,N/A,Patrick Wilson,Vera Farmiga,N/A,N/A,N/A,40000000.0,319500000.0
+The Croods,2013-03-22,https://en.wikipedia.org/wiki/The_Croods,Adventure,Chris Sanders,Kirk DeMicco,Nicolas Cage,Ryan Reynolds,Emma Stone,Catherine Keener,Clark Duke,135000000.0,587200000.0
+The Danish Girl,2015-09-05,https://en.wikipedia.org/wiki/The_Danish_Girl_(film),Drama,Tom Hooper,N/A,Eddie Redmayne,Alicia Vikander,Matthias Schoenaerts,Ben Whishaw,N/A,15000000.0,64200000.0
+The Darkness,2016-05-13,https://en.wikipedia.org/wiki/The_Darkness_(film),Horror,Greg McLean,N/A,Kevin Bacon,Radha Mitchell,David Mazouz,Lucy Fry,Matt Walsh,4000000.0,10900000.0
+The Devil Inside,2012-01-06,https://en.wikipedia.org/wiki/The_Devil_Inside_(film),Horror,William Brent Bell,N/A,Suzan Crowley,Fernanda Andrade,Simon Quarterman,Evan Helmuth,N/A,1000000.0,101800000.0
+The Dictator,2012-05-16,https://en.wikipedia.org/wiki/The_Dictator_(2012_film),Comedy,Larry Charles,N/A,Sacha Baron Cohen,Ben Kingsley,Anna Faris,Megan Fox,John C. Reilly,65000000.0,179400000.0
+The Divergent Series: Allegiant,2016-03-18,https://en.wikipedia.org/wiki/The_Divergent_Series:_Allegiant,Adventure,Robert Schwentke,N/A,Shailene Woodley,Theo James,Naomi Watts,Jeff Daniels,Ansel Elgort,110000000.0,179200000.0
+The Divergent Series: Insurgent,2015-03-19,https://en.wikipedia.org/wiki/The_Divergent_Series:_Insurgent,Sci-Fi,Robert Schwentke,N/A,Shailene Woodley,Kate Winslet,Theo James,Ansel Elgort,Naomi Watts,110000000.0,297300000.0
+The Drop,2014-09-12,https://en.wikipedia.org/wiki/The_Drop_(film),Drama,Michaël R. Roskam,N/A,Tom Hardy,Noomi Rapace,James Gandolfini,Matthias Schoenaerts,John Ortiz,12600000.0,18700000.0
+The Duff,2015-02-12,https://en.wikipedia.org/wiki/The_Duff,Comedy,Ari Sandel,N/A,Mae Whitman,Robbie Amell,Bella Thorne,Bianca A. Santos,Allison Janney,8500000.0,43500000.0
+The East,2013-05-31,https://en.wikipedia.org/wiki/The_East_(film),Crime,Zal Batmanglij,N/A,Brit Marling,Alexander Skarsgard,Ellen Page,Julia Ormond,Patricia Clarkson,6500000.0,2400000.0
+The Equalizer,2014-09-07,https://en.wikipedia.org/wiki/The_Equalizer_(film),Thriller,Antoine Fuqua,N/A,Denzel Washington,Chloë Grace Moretz,Marton Csokas,David Harbour,Bill Pullman,55000000.0,192300000.0
+The Expendables 2,2012-08-17,https://en.wikipedia.org/wiki/The_Expendables_2,Action,Simon West,N/A,Sylvester Stallone,Jason Statham,Dolph Lundgren,Terry Crews,Randy Couture,100000000.0,305400000.0
+The Expendables 3,2014-08-04,https://en.wikipedia.org/wiki/The_Expendables_3,Action,Patrick Hughes,N/A,Sylvester Stallone,Arnold Schwarzenegger,Harrison Ford,Mel Gibson,Jason Statham,90000000.0,206200000.0
+The Family,2013-09-13,https://en.wikipedia.org/wiki/The_Family_(2013_film),Crime,Luc Besson,N/A,Robert De Niro,Michelle Pfeiffer,Dianna Agron,Tommy Lee Jones,Vincent Pastore,30000000.0,78400000.0
+The Fault in Our Stars,2014-05-16,https://en.wikipedia.org/wiki/The_Fault_in_Our_Stars_(film),Drama,Josh Boone,N/A,Shailene Woodley,Ansel Elgort,N/A,N/A,N/A,13000000.0,307200000.0
+The Five-Year Engagement,2012-04-27,https://en.wikipedia.org/wiki/The_Five-Year_Engagement,Comedy,Nicholas Stoller,N/A,Jason Segel,Emily Blunt,Chris Pratt,Alison Brie,Rhys Ifans,30000000.0,53900000.0
+The Forest,2016-01-08,https://en.wikipedia.org/wiki/The_Forest_(2016_film),Horror,Jason Zada,N/A,Natalie Dormer,Taylor Kinney,N/A,N/A,N/A,10000000.0,37600000.0
+The Gift,2015-07-30,https://en.wikipedia.org/wiki/The_Gift_(2015_film),Thriller,Joel Edgerton,N/A,Jason Bateman,Rebecca Hall,Joel Edgerton,N/A,N/A,5000000.0,59000000.0
+The Giver,2014-08-11,https://en.wikipedia.org/wiki/The_Giver_(film),Sci-Fi,Phillip Noyce,N/A,Jeff Bridges,Brenton Thwaites,Meryl Streep,Alexander Skarsgård,Katie Holmes,25000000.0,67000000.0
+The Grand Budapest Hotel,2014-02-06,https://en.wikipedia.org/wiki/The_Grand_Budapest_Hotel,Comedy,Wes Anderson,N/A,Ralph Fiennes,Tony Revolori,F. Murray Abraham,Mathieu Amalric,Adrien Brody,23000000.0,174800000.0
+The Great Gatsby,2013-05-10,https://en.wikipedia.org/wiki/The_Great_Gatsby_(2013_film),Drama,Baz Luhrmann,N/A,Leonardo DiCaprio,Tobey Maguire,Joel Edgerton,Carey Mulligan,Isla Fisher,105000000.0,351000000.0
+The Grey,2012-01-27,https://en.wikipedia.org/wiki/The_Grey_(film),Action,Joe Carnahan,N/A,Liam Neeson,Frank Grillo,Dermot Mulroney,Dallas Roberts,N/A,25000000.0,77300000.0
+The Gunman,2015-03-20,https://en.wikipedia.org/wiki/The_Gunman_(film),Thriller,Pierre Morel,N/A,Sean Penn,Javier Bardem,Ray Winstone,Idris Elba,Mark Rylance,40000000.0,24200000.0
+The Hangover Part III,2013-05-23,https://en.wikipedia.org/wiki/The_Hangover_Part_III,Comedy,Todd Phillips,N/A,Bradley Cooper,Zach Galifianakis,Ed Helms,Justin Bartha,Ken Jeong,103000000.0,362000000.0
+The Hateful Eight,2015-12-25,https://en.wikipedia.org/wiki/The_Hateful_Eight,Drama,Quentin Tarantino,N/A,Samuel L. Jackson,Kurt Russell,Jennifer Jason Leigh,Walton Goggins,Tim Roth,44000000.0,155800000.0
+The Heat,2013-06-28,https://en.wikipedia.org/wiki/The_Heat_(film),Action,Paul Feig,N/A,Sandra Bullock,Melissa McCarthy,Kaitlin Olson,Tony Hale,Demian Bichir,43000000.0,229900000.0
+The Hobbit: The Battle of the Five Armies,2014-12-01,https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies,Adventure,Peter Jackson,N/A,Ian McKellen,Martin Freeman,Richard Armitage,Evangeline Lilly,Luke Evans,250000000.0,956000000.0
+The Host,2013-03-29,https://en.wikipedia.org/wiki/The_Host_(2013_film),Sci-Fi,Andrew Niccol,N/A,Saoirse Ronan,Max Irons,Jake Abel,Diane Kruger,William Hurt,40000000.0,63300000.0
+The Hundred-Foot Journey,2014-08-08,https://en.wikipedia.org/wiki/The_Hundred-Foot_Journey_(film),Drama,Lasse Hallström,N/A,Helen Mirren,Manish Dayal,N/A,N/A,N/A,22000000.0,88900000.0
+The Hunger Games,2012-03-23,https://en.wikipedia.org/wiki/The_Hunger_Games_(film),Action,Gary Ross,N/A,Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth,Wes Bentley,Elizabeth Banks,78000000.0,694400000.0
+The Hunger Games: Mockingjay – Part 1,2014-11-10,https://en.wikipedia.org/wiki/The_Hunger_Games:_Mockingjay_%25E2%2580%2593_Part_1,Sci-Fi,Francis Lawrence,N/A,Jennifer Lawrence,Josh Hutcherson,Woody Harrelson,Julianne Moore,Donald Sutherland,125000000.0,755400000.0
+The Hunger Games: Mockingjay – Part 2,2015-11-04,https://en.wikipedia.org/wiki/The_Hunger_Games:_Mockingjay_%25E2%2580%2593_Part_2,Sci-Fi,Francis Lawrence,N/A,Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth,Woody Harrelson,Elizabeth Banks,160000000.0,653400000.0
+The Huntsman: Winter's War,2016-04-22,https://en.wikipedia.org/wiki/The_Huntsman:_Winter%2527s_War,Fantasy,Cedric Nicolas-Troyan,N/A,Chris Hemsworth,Charlize Theron,Emily Blunt,Jessica Chastain,Nick Frost,115000000.0,164600000.0
+The Iceman,2013-05-03,https://en.wikipedia.org/wiki/The_Iceman_(film),Drama,Ariel Vromen,N/A,Morgan Land (screenplay),Michael Shannon,Winona Ryder,Chris Evans,Ray Liotta,10000000.0,4400000.0
+The Identical,2014-04-17,https://en.wikipedia.org/wiki/The_Identical,Religious,Dustin Marcellino,N/A,Ray Liotta,Ashley Judd,Seth Green,Brian Geraghty,Joe Pantoliano,16000000.0,2800000.0
+The Imitation Game,2014-08-29,https://en.wikipedia.org/wiki/The_Imitation_Game,Drama,Morten Tyldum,N/A,Benedict Cumberbatch,Keira Knightley,Matthew Goode,Rory Kinnear,Allen Leech,14000000.0,233600000.0
+The Impossible,2012-12-21,https://en.wikipedia.org/wiki/The_Impossible_(2012_film),Drama,Juan Antonio Bayona,N/A,Naomi Watts,Ewan McGregor,N/A,N/A,N/A,45000000.0,180300000.0
+The Incredible Burt Wonderstone,2013-03-15,https://en.wikipedia.org/wiki/The_Incredible_Burt_Wonderstone,Comedy,Don Scardino,N/A,Steve Carell,Jim Carrey,Steve Buscemi,Olivia Wilde,James Gandolfini,34000000.0,27400000.0
+The Infiltrator,2016-07-13,https://en.wikipedia.org/wiki/The_Infiltrator_(2016_film),Drama,Brad Furman,N/A,Bryan Cranston,Diane Kruger,Benjamin Bratt,John Leguizamo,Amy Ryan,47500000.0,15200000.0
+The Intern,2015-09-15,https://en.wikipedia.org/wiki/The_Intern_(2015_film),Comedy,Nancy Meyers,N/A,Robert De Niro,Anne Hathaway,Rene Russo,Adam DeVine,Anders Holm,44000000.0,194600000.0
+The Internship,2013-06-07,https://en.wikipedia.org/wiki/The_Internship,Comedy,Shawn Levy,N/A,Vince Vaughn,Owen Wilson,Dylan O'Brien,Rose Byrne,Jessica Szohr,58000000.0,93000000.0
+The Interview,2014-12-11,https://en.wikipedia.org/wiki/The_Interview_(2014_film),Action,Seth Rogen,Evan Goldberg,Seth Rogen,James Franco,Lizzy Caplan,N/A,N/A,44000000.0,11300000.0
+The Judge,2014-09-04,https://en.wikipedia.org/wiki/The_Judge_(2014_film),Comedy,David Dobkin,N/A,Robert Downey,Jr.,Robert Duvall,Vera Farmiga,Billy Bob Thornton,50000000.0,84400000.0
+The Lady in the Van,2015-12-04,https://en.wikipedia.org/wiki/The_Lady_in_the_Van,Comedy,Nicholas Hytner,N/A,Maggie Smith,Alex Jennings,Jim Broadbent,Frances de la Tour,Roger Allam,6000000.0,41400000.0
+The Last Exorcism Part II,2013-03-01,https://en.wikipedia.org/wiki/The_Last_Exorcism_Part_II,Horror,Ed Gass-Donnelly,N/A,Ashley Bell,Spencer Treat Clark,Muse Watson,Louis Herthum,Judd Lormand,5000000.0,15100000.0
+The Last Stand,2013-01-18,https://en.wikipedia.org/wiki/The_Last_Stand_(2013_film),Action,Kim Ji-woon,N/A,Arnold Schwarzenegger,Forest Whitaker,Peter Stormare,Jaimie Alexander,Rodrigo Santoro,45000000.0,48300000.0
+The Last Witch Hunter,2015-10-23,https://en.wikipedia.org/wiki/The_Last_Witch_Hunter,Action,Breck Eisner,N/A,Vin Diesel,Michael Caine,Rose Leslie,Elijah Wood,N/A,90000000.0,140400000.0
+The Lazarus Effect,2015-02-27,https://en.wikipedia.org/wiki/The_Lazarus_Effect_(2015_film),Horror,David Gelb,N/A,Olivia Wilde,Mark Duplass,Donald Glover,N/A,N/A,3300000.0,38400000.0
+The Legend of Hercules,2014-01-10,https://en.wikipedia.org/wiki/The_Legend_of_Hercules,Action,Renny Harlin,N/A,Kellan Lutz,Gaia Weiss,Scott Adkins,Roxanne McKee,Liam Garrigan,70000000.0,61300000.0
+The Legend of Tarzan,2016-07-01,https://en.wikipedia.org/wiki/The_Legend_of_Tarzan_(film),Action,David Yates,N/A,Alexander Skarsgard,Margot Robbie,Christoph Waltz,Samuel L. Jackson,Djimon Hounsou,180000000.0,352700000.0
+The Lego Movie,2014-02-01,https://en.wikipedia.org/wiki/The_Lego_Movie,Family,Phil Lord,Chris Miller,Chris Pratt,Will Ferrell,Elizabeth Banks,Will Arnett,Nick Offerman,60000000.0,469200000.0
+The Letters,2015-12-04,https://en.wikipedia.org/wiki/The_Letters_(film),Drama,William Riead,N/A,Juliet Stevenson,Max von Sydow,Rutger Hauer,Priya Darshini,N/A,1000000.0,1600000.0
+The Lucky One,2012-04-20,https://en.wikipedia.org/wiki/The_Lucky_One_(film),Drama,Scott Hicks,N/A,Zac Efron,Taylor Schilling,Jay R. Ferguson,Riley Thomas Stewart,Adam Lefevre,25000000.0,99400000.0
+The Man from U.N.C.L.E.,2015-08-07,https://en.wikipedia.org/wiki/The_Man_from_U.N.C.L.E._(film),Action,Guy Ritchie,N/A,Henry Cavill,Armie Hammer,Elizabeth Debicki,Alicia Vikander,Hugh Grant,75000000.0,109800000.0
+The Man with the Iron Fists,2012-11-02,https://en.wikipedia.org/wiki/The_Man_with_the_Iron_Fists,Action,RZA,N/A,Russell Crowe,Lucy Liu,David Bautista,RZA,Byron Mann,20000000.0,20300000.0
+The Martian,2015-09-11,https://en.wikipedia.org/wiki/The_Martian_(film),Sci-Fi,Ridley Scott,N/A,Matt Damon,Jeff Daniels,Kristen Wiig,Sean Bean,Jessica Chastain,108000000.0,630200000.0
+The Master,2012-09-14,https://en.wikipedia.org/wiki/The_Master_(2012_film),Drama,Paul Thomas Anderson,N/A,Philip Seymour Hoffman,Joaquin Phoenix,Jesse Plemons,David Warshofsky,Amy Adams,32000000.0,28300000.0
+The Maze Runner,2014-09-19,https://en.wikipedia.org/wiki/The_Maze_Runner_(film),Sci-Fi,Wes Ball,N/A,Dylan O'Brien,Will Poulter,Thomas Sangster,Aml Ameen,Kaya Scodelario,34000000.0,348300000.0
+The Mermaid,2016-02-08,https://en.wikipedia.org/wiki/The_Mermaid_(2016_film),Sci-Fi,Stephen Chow,N/A,Deng Chao,Lin Yun,Show Luo,Zhang Yuqi,Kris Wu,60720000.0,553800000.0
+The Monuments Men,2014-02-07,https://en.wikipedia.org/wiki/The_Monuments_Men,Drama,George Clooney,N/A,George Clooney,Matt Damon,Bill Murray,John Goodman,Jean Dujardin,70000000.0,155000000.0
+The Mortal Instruments: City of Bones,2013-08-21,https://en.wikipedia.org/wiki/The_Mortal_Instruments:_City_of_Bones,Action,Harald Zwart,N/A,Lily Collins,Jamie Campbell Bower,Robert Sheehan,Jemima West,Kevin Durand,60000000.0,90600000.0
+The Night Before,2015-11-20,https://en.wikipedia.org/wiki/The_Night_Before_(2015_film),Comedy,Jonathan Levine,N/A,Joseph Gordon-Levitt,Seth Rogen,Anthony Mackie,N/A,N/A,25000000.0,52400000.0
+The November Man,2014-08-27,https://en.wikipedia.org/wiki/The_November_Man,Thriller,Roger Donaldson,N/A,Pierce Brosnan,Olga Kurylenko,Luke Bracey,Bill Smitrovich,Will Patton,15000000.0,34800000.0
+The Nut Job,2014-01-11,https://en.wikipedia.org/wiki/The_Nut_Job,Family,Peter Lepeniotis,N/A,Will Arnett,Katherine Heigl,Liam Neeson,Brendan Fraser,Gabriel Iglesias,42800000.0,120900000.0
+The Oogieloves in the Big Balloon Adventure,2012-08-29,https://en.wikipedia.org/wiki/The_Oogieloves_in_the_Big_Balloon_Adventure,Family,Matthew Diamond,N/A,Toni Braxton,Cloris Leachman,Christopher Lloyd,Chazz Palminteri,Cary Elwes,20000000.0,1100000.0
+The Other Woman,2014-03-31,https://en.wikipedia.org/wiki/The_Other_Woman_(2014_film),Comedy,Nick Cassavetes,N/A,Cameron Diaz,Leslie Mann,Kate Upton,Nikolaj Coster-Waldau,Taylor Kinney,40000000.0,196700000.0
+The Peanuts Movie,2015-11-01,https://en.wikipedia.org/wiki/The_Peanuts_Movie,Animation,Steve Martino,N/A,Bill Melendez,Noah Schnapp,Hadley Belle Miller,AJ Teece,Noah Johnston,99000000.0,246200000.0
+The Perfect Guy,2015-09-02,https://en.wikipedia.org/wiki/The_Perfect_Guy_(2015_film),Thriller,David M. Rosenthal,N/A,Sanaa Lathan,Michael Ealy,Morris Chestnut,N/A,N/A,18000000.0,60300000.0
+The Perfect Match,2016-03-11,https://en.wikipedia.org/wiki/The_Perfect_Match_(2016_film),Romance,Bille Woodruff,N/A,Terrence J,Cassie Ventura,Donald Faison,Dascha Polanco,Robert Christopher Riley,5000000.0,10400000.0
+The Perks of Being a Wallflower,2012-09-21,https://en.wikipedia.org/wiki/The_Perks_of_Being_a_Wallflower_(film),Drama,Stephen Chbosky,N/A,Emma Watson,Logan Lerman,Mae Whitman,Nina Dobrev,Johnny Simmons,13000000.0,33400000.0
+The Pirates! Band of Misfits,2012-04-27,https://en.wikipedia.org/wiki/The_Pirates!_In_an_Adventure_with_Scientists_(film),Comedy,Peter Lord,Jeff Newitt,Hugh Grant,Salma Hayek,Jeremy Piven,Imelda Staunton,David Tennant,55000000.0,123000000.0
+The Place Beyond the Pines,2013-03-29,https://en.wikipedia.org/wiki/The_Place_Beyond_the_Pines,Crime,Derek Cianfrance,N/A,Ryan Gosling,Bradley Cooper,Rose Byrne,Eva Mendes,Ray Liotta,15000000.0,47000000.0
+The Possession,2012-08-31,https://en.wikipedia.org/wiki/The_Possession_(2012_film),Horror,Ole Bornedal,N/A,Jeffrey Dean Morgan,Kyra Sedgwick,N/A,N/A,N/A,14000000.0,78500000.0
+The Purge,2013-05-31,https://en.wikipedia.org/wiki/The_Purge,Sci-Fi,James DeMonaco,N/A,Ethan Hawke,Lena Headey,Max Burkholder,Tony Oller,Edwin Hodge,3000000.0,89300000.0
+The Purge: Election Year,2016-07-01,https://en.wikipedia.org/wiki/The_Purge:_Election_Year,Horror,James DeMonaco,N/A,Frank Grillo,Betty Gabriel,Edwin Hodge,Kyle Secor,Joseph Julian Soria,10000000.0,105600000.0
+The Raid 2,2014-01-21,https://en.wikipedia.org/wiki/The_Raid_2,Action,Gareth Evans,N/A,Iko Uwais,Tio Pakusadewo,Arifin Putra,Julie Estelle,Alex Abbad,4500000.0,6600000.0
+The Raid: Redemption ₪,2012-03-23,https://en.wikipedia.org/wiki/The_Raid:_Redemption,Action,Gareth Evans,N/A,Iko Uwais,Doni Alamsyah,Joe Taslim,Yayan Ruhian,Ray Sahetapy,1100000.0,9140000.0
+The Raven,2012-04-27,https://en.wikipedia.org/wiki/The_Raven_(2012_film),Thriller,James McTeigue,N/A,John Cusack,Alice Eve,Luke Evans,Brendan Gleeson,Oliver Jackson-Cohen,26000000.0,29700000.0
+The Revenant,2015-12-25,https://en.wikipedia.org/wiki/The_Revenant_(2015_film),Thriller,Alejandro G. Iñárritu,N/A,Leonardo DiCaprio,Tom Hardy,Domhnall Gleeson,Will Poulter,N/A,135000000.0,533000000.0
+The Second Best Exotic Marigold Hotel,2015-02-26,https://en.wikipedia.org/wiki/The_Second_Best_Exotic_Marigold_Hotel,Comedy,John Madden,N/A,Judi Dench,Bill Nighy,Maggie Smith,Richard Gere,Celia Imrie,10000000.0,86000000.0
+The Second Mother,2015-01-25,https://en.wikipedia.org/wiki/The_Second_Mother_(2015_film),Drama,Anna Muylaert,N/A,Regina Casé,Michel Joelsas,Camila Márdila,N/A,N/A,4000000.0,6200000.0
+The Secret Life of Pets,2016-07-08,https://en.wikipedia.org/wiki/The_Secret_Life_of_Pets,Adventure,Chris Renaud,Yarrow Cheney,Louis C.K.,Eric Stonestreet,Kevin Hart,Albert Brooks,Hannibal Buress,75000000.0,724900000.0
+The Secret World of Arrietty,2012-02-17,https://en.wikipedia.org/wiki/Arrietty,Adventure,Gary Rydstrom,N/A,Will Arnett,Amy Poehler,Carol Burnett,Bridgit Mendler,David Henrie,23000000.0,145600000.0
+The Shallows,2016-06-21,https://en.wikipedia.org/wiki/The_Shallows_(film),Horror,Jaume Collet-Serra,N/A,Blake Lively,Óscar Jaenada,N/A,N/A,N/A,17000000.0,93200000.0
+The Signal,2014-01-20,https://en.wikipedia.org/wiki/The_Signal_(2014_film),Sci-Fi,William Eubank,N/A,Brenton Thwaites,Olivia Cooke,Sarah Clarke,Laurence Fishburne,N/A,4000000.0,2420000.0
+The Single Moms Club,2014-03-14,https://en.wikipedia.org/wiki/The_Single_Moms_Club,Comedy,Tyler Perry,N/A,Tyler Perry,Nia Long,Wendi McLendon-Covey,Zulay Henao,Cocoa Brown,8000000.0,16300000.0
+The Smurfs 2,2013-07-31,https://en.wikipedia.org/wiki/The_Smurfs_2,Adventure,Raja Gosnell,N/A,Neil Patrick Harris,Jayma Mays,Hank Azaria,Tim Gunn,Brendan Gleeson,105000000.0,347500000.0
+The Spectacular Now,2013-08-02,https://en.wikipedia.org/wiki/The_Spectacular_Now,Drama,James Ponsoldt,N/A,Miles Teller,Shailene Woodley,Kaitlyn Dever,Brie Larson,Dayo Okeniyi,2500000.0,6900000.0
+The SpongeBob Movie: Sponge Out of Water,2015-02-06,https://en.wikipedia.org/wiki/The_SpongeBob_Movie:_Sponge_Out_of_Water,Adventure,Paul Tibbitt,Jonathan Aibel,Paul Tibbitt (director),Jonathan Aibel,Glenn Berger(screenplay),Antonio Banderas,Tom Kenny,74000000.0,323400000.0
+The Sweet Escape,2015-06-10,https://en.wikipedia.org/wiki/The_Sweet_Escape_(film),Comedy,Bruno Podalydès,N/A,Bruno Podalydès,Sandrine Kiberlain,Agnès Jaoui,Vimala Pons,N/A,3800000.0,3300000.0
+The Theory of Everything,2014-09-07,https://en.wikipedia.org/wiki/The_Theory_of_Everything_(2014_film),Biography,James Marsh,N/A,Eddie Redmayne,Felicity Jones,N/A,N/A,N/A,15000000.0,123700000.0
+The Three Stooges,2012-04-13,https://en.wikipedia.org/wiki/The_Three_Stooges_(film),Comedy,Bobby Farrelly,Peter Farrelly,Chris Diamantopoulos,Sean Hayes,Will Sasso,Jane Lynch,Larry David,30000000.0,54800000.0
+The Transporter Refueled,2015-09-04,https://en.wikipedia.org/wiki/The_Transporter_Refueled,Action,Camille Delamarre,N/A,Ed Skrein,Ray Stevenson,Loan Chabanol,Gabriella Wright,N/A,25000000.0,72600000.0
+The Twilight Saga: Breaking Dawn – Part 2,2012-11-16,https://en.wikipedia.org/wiki/The_Twilight_Saga:_Breaking_Dawn_%25E2%2580%2593_Part_2,Fantasy,Bill Condon,N/A,Kristen Stewart,Robert Pattinson,Michael Sheen,Mackenzie Foy,Billy Burke,120000000.0,829700000.0
+The Vatican Tapes,2015-07-25,https://en.wikipedia.org/wiki/The_Vatican_Tapes,Horror,Mark Neveldine,N/A,Kathleen Robertson,Michael Peña,Djimon Hounsou,Dougray Scott,John Patrick Amedori,13000000.0,13500000.0
+The Visit,2015-09-08,https://en.wikipedia.org/wiki/The_Visit_(2015_American_film),Horror,M. Night Shyamalan,N/A,Kathryn Hahn,Ed Oxenbould,Deanna Dunagan,Peter McRobbie,Olivia DeJonge,5000000.0,98500000.0
+The Walk,2015-09-30,https://en.wikipedia.org/wiki/The_Walk_(2015_film),Biography,Robert Zemeckis,N/A,Joseph Gordon-Levitt,Ben Kingsley,James Badge Dale,Charlotte Le Bon,N/A,45000000.0,61200000.0
+The Watch,2012-07-27,https://en.wikipedia.org/wiki/The_Watch_(2012_film),Comedy,Akiva Schaffer,N/A,Ben Stiller,Vince Vaughn,Rosemarie DeWitt,Jonah Hill,Richard Ayoade,68000000.0,68300000.0
+The Water Diviner,2014-12-26,https://en.wikipedia.org/wiki/The_Water_Diviner,Drama,Russell Crowe,N/A,Cem Yılmaz,Miyavi,Yılmaz Erdoğan,N/A,N/A,22500000.0,30800000.0
+"The Way, Way Back",2013-07-05,"https://en.wikipedia.org/wiki/The_Way,_Way_Back",Comedy,Nat Faxon,Jim Rash,Steve Carell,Toni Collette,Allison Janney,AnnaSophia Robb,Sam Rockwell,5000000.0,5000000.0
+The Wedding Ringer,2015-01-16,https://en.wikipedia.org/wiki/The_Wedding_Ringer,Romance,Jeremy Garelick,N/A,Kevin Hart,Josh Gad,Kaley Cuoco,Olivia Thirlby,Alan Ritchson,23000000.0,79800000.0
+The Witch,2016-01-27,https://en.wikipedia.org/wiki/The_Witch_(2015_film),Horror,Robert Eggers,N/A,Anya Taylor-Joy,Ralph Ineson,Kate Dickie,N/A,N/A,3000000.0,40400000.0
+The Wolverine,2013-07-24,https://en.wikipedia.org/wiki/The_Wolverine_(film),Action,James Mangold,N/A,Hugh Jackman,Famke Janssen,Hiroyuki Sanada,Hal Yamanouchi,Tao Okamoto,120000000.0,414800000.0
+The Woman in Black,2012-02-03,https://en.wikipedia.org/wiki/The_Woman_in_Black_(2012_film),Horror,James Watkins,N/A,Daniel Radcliffe,Ciarán Hinds,Janet McTeer,Liz White,Alisa Khazanova,15000000.0,128500000.0
+The Woman in Black: Angel of Death,2014-12-30,https://en.wikipedia.org/wiki/The_Woman_in_Black:_Angel_of_Death,Horror,Tom Harper,N/A,Phoebe Fox,Jeremy Irvine,Helen McCrory,Adrian Rawlins,Oaklee Pendergast,15000000.0,48900000.0
+The World's End,2013-07-19,https://en.wikipedia.org/wiki/The_World%2527s_End_(film),Comedy,Edgar Wright,N/A,Simon Pegg,Nick Frost,Paddy Considine,Martin Freeman,Eddie Marsan,20000000.0,46100000.0
+The Young Messiah,2016-03-11,https://en.wikipedia.org/wiki/The_Young_Messiah_(film),Drama,Cyrus Nowrasteh,N/A,Adam Greaves-Neal,Sean Bean,N/A,N/A,N/A,18500000.0,7200000.0
+Think Like a Man,2012-04-20,https://en.wikipedia.org/wiki/Think_Like_a_Man,Comedy,Tim Story,N/A,Kevin Hart,Michael Ealy,Taraji P. Henson,Jerry Ferrara,Meagan Good,12000000.0,96100000.0
+This Is the End,2013-06-12,https://en.wikipedia.org/wiki/This_Is_the_End,Comedy,Evan Goldberg,Seth Rogen,Seth Rogen,Jay Baruchel,James Franco,Craig Robinson,Danny McBride,32000000.0,126000000.0
+This Is Where I Leave You,2014-09-19,https://en.wikipedia.org/wiki/This_Is_Where_I_Leave_You,Comedy,Shawn Levy,N/A,Jason Bateman,Tina Fey,Jane Fonda,Timothy Olyphant,Corey Stoll,19800000.0,41300000.0
+This Means War,2012-02-17,https://en.wikipedia.org/wiki/This_Means_War_(film),Action,McG,N/A,Tom Hardy,Chris Pine,Reese Witherspoon,Chelsea Handler,Til Schweiger,65000000.0,156500000.0
+Top Five,2014-09-06,https://en.wikipedia.org/wiki/Top_Five,Comedy,Chris Rock,N/A,Chris Rock,Rosario Dawson,Genevieve Angelson,Rachel Feinstein,Dan Naturman,12000000.0,26100000.0
+Top Gun 3D,2013-02-08,https://en.wikipedia.org/wiki/Top_Gun,Action,Tony Scott,N/A,Tom Cruise,Kelly McGillis,Val Kilmer,James Tolkan,Tom Skerritt,15000000.0,356800000.0
+Total Recall,2012-08-03,https://en.wikipedia.org/wiki/Total_Recall_(2012_film),Action,Len Wiseman,N/A,Colin Farrell,Jessica Biel,Bryan Cranston,Kate Beckinsale,Bill Nighy,125000000.0,198500000.0
+Trance,2013-03-27,https://en.wikipedia.org/wiki/Trance_(2013_film),Crime,Danny Boyle,N/A,James McAvoy,Vincent Cassel,Rosario Dawson,Tuppence Middleton,Lee Nicholas Harris,20000000.0,24300000.0
+Transcendence,2014-04-10,https://en.wikipedia.org/wiki/Transcendence_(2014_film),Sci-Fi,Wally Pfister,N/A,Johnny Depp,Paul Bettany,Rebecca Hall,Kate Mara,Morgan Freeman,100000000.0,103000000.0
+Triple 9,2016-02-16,https://en.wikipedia.org/wiki/Triple_9,Crime,John Hillcoat,N/A,Kate Winslet,Woody Harrelson,Gal Gadot,Anthony Mackie,Teresa Palmer,20000000.0,23400000.0
+Trouble with the Curve,2012-09-21,https://en.wikipedia.org/wiki/Trouble_with_the_Curve,Drama,Robert Lorenz,N/A,Clint Eastwood,Amy Adams,Matthew Lillard,Justin Timberlake,John Goodman,60000000.0,49000000.0
+Trumbo,2015-09-12,https://en.wikipedia.org/wiki/Trumbo_(2015_film),Drama,Jay Roach,N/A,Bryan Cranston,Diane Lane,Helen Mirren,John Goodman,Elle Fanning,15000000.0,8200000.0
+Truth,2015-09-12,https://en.wikipedia.org/wiki/Truth_(2015_film),Drama,James Vanderbilt,N/A,Robert Redford,Cate Blanchett,Dennis Quaid,Topher Grace,Elisabeth Moss,9600000.0,5400000.0
+Turbo,2013-07-17,https://en.wikipedia.org/wiki/Turbo_(film),Comedy,David Soren,N/A,Ryan Reynolds,Paul Giamatti,Michael Peña,Luis Guzmán,Bill Hader,127000000.0,282600000.0
+Tusk,2014-09-06,https://en.wikipedia.org/wiki/Tusk_(2014_film),Horror,Kevin Smith,N/A,Michael Parks,Justin Long,Haley Joel Osment,Génesis Rodríguez,Johnny Depp,3000000.0,1900000.0
+Unbroken,2014-11-17,https://en.wikipedia.org/wiki/Unbroken_(film),Drama,Angelina Jolie,N/A,Jack O'Connell,Miyavi,Domhnall Gleeson,Garrett Hedlund,Jai Courtney,65000000.0,163400000.0
+Unfinished Business,2015-03-06,https://en.wikipedia.org/wiki/Unfinished_Business_(2015_film),Comedy,Ken Scott,N/A,Vince Vaughn,Tom Wilkinson,Dave Franco,Sienna Miller,Nick Frost,35000000.0,14400000.0
+Unfriended,2014-07-20,https://en.wikipedia.org/wiki/Unfriended,Horror,Levan Gabriadze,N/A,Shelley Hennig,Renee Olstead,Jacob Wysocki,Will Peltz,N/A,1000000.0,64100000.0
+Vacation,2015-07-29,https://en.wikipedia.org/wiki/Vacation_(2015_film),Adventure,John Francis Daley,Jonathan Goldstein,Ed Helms,Christina Applegate,Leslie Mann,Chris Hemsworth,Charlie Day,31000000.0,104900000.0
+Vampire Academy,2014-02-07,https://en.wikipedia.org/wiki/Vampire_Academy_(film),Action,Mark Waters,N/A,Zoey Deutch,Lucy Fry,Danila Kozlovsky,N/A,N/A,30000000.0,15400000.0
+Veronica Mars,2014-03-14,https://en.wikipedia.org/wiki/Veronica_Mars_(film),Mystery,Rob Thomas,N/A,Kristen Bell,Jason Dohring,Krysten Ritter,Ryan Hansen,Francis Capra,6000000.0,3500000.0
+Victor Frankenstein,2015-11-25,https://en.wikipedia.org/wiki/Victor_Frankenstein_(film),Horror,Paul McGuigan,N/A,Daniel Radcliffe,James McAvoy,Jessica Brown Findlay,Andrew Scott,N/A,40000000.0,34200000.0
+Wanderlust,2012-02-24,https://en.wikipedia.org/wiki/Wanderlust_(2012_film),Comedy,David Wain,N/A,Paul Rudd,Jennifer Aniston,Malin Akerman,Justin Theroux,Ken Marino,35000000.0,24200000.0
+War Dogs,2016-08-19,https://en.wikipedia.org/wiki/War_Dogs_(2016_film),Crime,Todd Phillips,N/A,Jonah Hill,Miles Teller,Ana de Armas,J. B. Blanc,N/A,40000000.0,42700000.0
+War Room,2015-08-28,https://en.wikipedia.org/wiki/War_Room_(film),Drama,Alex Kendrick,N/A,Alex Kendrick,Priscilla Shirer,T.C. Stallings,Beth Moore,Karen Abercrombie,3000000.0,73700000.0
+Warcraft,2016-06-10,https://en.wikipedia.org/wiki/Warcraft_(film),Action,Duncan Jones,N/A,Ben Foster,Travis Fimmel,Paula Patton,Toby Kebbell,Dominic Cooper,160000000.0,433500000.0
+Warm Bodies,2013-02-01,https://en.wikipedia.org/wiki/Warm_Bodies_(film),Comedy,Jonathan Levine,N/A,Nicholas Hoult,Teresa Palmer,Rob Corddry,John Malkovich,Analeigh Tipton,35000000.0,117000000.0
+What Maisie Knew,2013-05-03,https://en.wikipedia.org/wiki/What_Maisie_Knew_(film),Drama,Scott McGehee,David Siegel,Julianne Moore,Steve Coogan,Alexander Skarsgård,Joanna Vanderham,Onata Aprile,5000000.0,2700000.0
+What to Expect When You're Expecting,2012-05-18,https://en.wikipedia.org/wiki/What_to_Expect_When_You%2527re_Expecting_(film),Comedy,Kirk Jones,N/A,Cameron Diaz,Jennifer Lopez,Brooklyn Decker,Elizabeth Banks,Anna Kendrick,40000000.0,84400000.0
+When the Game Stands Tall,2014-08-04,https://en.wikipedia.org/wiki/When_the_Game_Stands_Tall,Religious,Thomas Carter,N/A,Jim Caviezel,Laura Dern,Michael Chiklis,Alexander Ludwig,N/A,15000000.0,30100000.0
+Whiplash,2014-01-16,https://en.wikipedia.org/wiki/Whiplash_(2014_film),Drama,Damien Chazelle,N/A,J. K. Simmons,Miles Teller,Paul Reiser,Melissa Benoist,N/A,3300000.0,49000000.0
+Whiskey Tango Foxtrot,2016-03-04,https://en.wikipedia.org/wiki/Whiskey_Tango_Foxtrot_(film),Drama,Glenn Ficarra,John Requa,Tina Fey,Margot Robbie,Martin Freeman,Billy Bob Thornton,Alfred Molina,35000000.0,24900000.0
+White House Down,2013-06-28,https://en.wikipedia.org/wiki/White_House_Down,Action,Roland Emmerich,N/A,Channing Tatum,Jamie Foxx,Maggie Gyllenhaal,James Woods,Richard Jenkins,150000000.0,205000000.0
+Wild,2014-08-29,https://en.wikipedia.org/wiki/Wild_(2014_film),Drama,Jean-Marc Vallée,N/A,Reese Witherspoon,Gaby Hoffmann,Michiel Huisman,Charles Baker,N/A,15000000.0,52500000.0
+Winter's Tale,2014-02-13,https://en.wikipedia.org/wiki/Winter%2527s_Tale_(film),Drama,Akiva Goldsman,N/A,Colin Farrell,Russell Crowe,Jessica Brown Findlay,Jennifer Connelly,Will Smith,60000000.0,31100000.0
+Wish I Was Here,2014-01-18,https://en.wikipedia.org/wiki/Wish_I_Was_Here,Drama,Zach Braff,N/A,Zach Braff,Kate Hudson,Jim Parsons,Mandy Patinkin,Ashley Greene,6000000.0,5500000.0
+Woman in Gold,2015-04-01,https://en.wikipedia.org/wiki/Woman_in_Gold_(film),Drama,Simon Curtis,N/A,Helen Mirren,Ryan Reynolds,Daniel Brühl,Katie Holmes,Tatiana Maslany,11000000.0,61600000.0
+Won't Back Down,2012-09-28,https://en.wikipedia.org/wiki/Won%2527t_Back_Down_(film),Drama,Daniel Barnz,N/A,Viola Davis,Maggie Gyllenhaal,Holly Hunter,Ving Rhames,Rosie Perez,19000000.0,5400000.0
+Woodlawn,2015-10-16,https://en.wikipedia.org/wiki/Woodlawn_(film),Drama,The Erwin Brothers,N/A,Sean Astin,Nic Bishop,Caleb Castille,Sherri Shepherd,Jon Voight,13000000.0,14400000.0
+World War Z,2013-06-21,https://en.wikipedia.org/wiki/World_War_Z_(film),Action,Marc Forster,N/A,Brad Pitt,Mireille Enos,James Badge Dale,Daniella Kertesz,Matthew Fox,190000000.0,540000000.0
+Wrath of the Titans,2012-03-30,https://en.wikipedia.org/wiki/Wrath_of_the_Titans,Action,Jonathan Liebesman,N/A,Sam Worthington,Liam Neeson,Ralph Fiennes,Edgar Ramirez,Rosamund Pike,150000000.0,305300000.0
+X-Men: Apocalypse,2016-05-09,https://en.wikipedia.org/wiki/X-Men:_Apocalypse,Action,Bryan Singer,N/A,James McAvoy,Michael Fassbender,Jennifer Lawrence,Oscar Isaac,Nicholas Hoult,178000000.0,544600000.0
+X-Men: Days of Future Past,2014-05-10,https://en.wikipedia.org/wiki/X-Men:_Days_of_Future_Past,Action,Bryan Singer,N/A,Hugh Jackman,James McAvoy,Michael Fassbender,Halle Berry,Jennifer Lawrence,200000000.0,747900000.0
+You're Next,2013-08-23,https://en.wikipedia.org/wiki/You%2527re_Next,Horror,Adam Wingard,N/A,Sharni Vinson,Joe Swanberg,AJ Bowen,Nicholas Tucci,Barbara Crampton,1000000.0,26800000.0
+Zero Dark Thirty,2012-12-19,https://en.wikipedia.org/wiki/Zero_Dark_Thirty,Drama,Kathryn Bigelow,N/A,Jessica Chastain,Chris Pratt,Joel Edgerton,Kyle Chandler,Jason Clarke,40000000.0,132800000.0
+Zhong Kui: Snow Girl and the Dark Crystal,2015-02-19,https://en.wikipedia.org/wiki/Zhong_Kui:_Snow_Girl_and_the_Dark_Crystal,Romance,Peter Pau,N/A,Li Bingbing,Chen Kun,Yang Zishan,Winston Chao,Bao Bei'er,30000000.0,64470000.0
+Zoolander 2,2016-02-12,https://en.wikipedia.org/wiki/Zoolander_2,Comedy,Ben Stiller,N/A,Ben Stiller,Owen Wilson,Christine Taylor,Will Ferrell,Penélope Cruz,50000000.0,56000000.0
