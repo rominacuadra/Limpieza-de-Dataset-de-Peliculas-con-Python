@@ -5,7 +5,7 @@ Este proyecto documenta el proceso de **Data Wrangling** y limpieza de un conjun
 
 ## 🚩 Problema Principal: Column Shifting & Delimitación
 El archivo original [Movie-Data.csv](./data/raw/Movie-Data.csv) presentaba una inconsistencia estructural grave:
-* **El Desafío:** El delimitador es la coma (`,`), el título de una películas contienen coma como parte de su nombre (*"The Way, Way Back"*). 
+* **El Desafío:** El delimitador es la coma (`,`), el título de una de las películas contienen coma como parte de su nombre (*"The Way, Way Back"*). 
 * **El Impacto:** Las herramientas de análisis interpretaban esas comas internas como separadores de columna, desplazando los datos financieros hacia la derecha (*Column Shifting*) y corrompiendo la integridad del dataset.
 * **La Causa:** Falta de estandarización (RFC 4180) en el archivo de origen, lo que impedía una ingesta directa en herramientas de Data Warehouse.
 
